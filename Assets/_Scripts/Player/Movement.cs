@@ -32,12 +32,17 @@ public class Movement : MonoBehaviour
 
     private Vector3 currentVelocity;
 
-    private float targetZoom = 5;
+    private float targetZoom;
 
     private Vector3 zoomMouseScreenPos;
     private Vector3 beforeZoom;
     private Vector3 afterZoom;
     private Vector3 mouseDragPos;
+
+    private void Start()
+    {
+        targetZoom = Camera.main.orthographicSize;
+    }
 
     void Update()
     {
