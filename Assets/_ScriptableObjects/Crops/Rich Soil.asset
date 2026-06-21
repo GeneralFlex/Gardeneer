@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0e7885ea956a646a30a25f1fd888bb, type: 3}
+  m_Name: Rich Soil
+  m_EditorClassIdentifier: Assembly-CSharp::CropSO
+  prefab: {fileID: 6256411865229934438, guid: 51034d0d86a4e2e49990ef059cab5ce8, type: 3}
+  displayName: Rich Soil
+  description: Soil for plating
+  requreAll: 0
+  requiresTags: 01000000
+  providesTags: 0100000002000000
+  forbiddenTags: 0200000003000000
+  growthTime: 10

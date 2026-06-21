@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1df4dd00b5a36d4d82aaac72cee7416, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  prefab: {fileID: 8055476968387171190, guid: 8fe9e5e9c2429fb4cb71fbab8c55ce73, type: 3}
+  displayName: Tomato
+  description: A red round tomato
+  icon: {fileID: -8113185096396602001, guid: 147e50d1d89795f44942db0772df7fcc, type: 3}

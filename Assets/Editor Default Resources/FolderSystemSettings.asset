@@ -96,3 +96,9 @@ MonoBehaviour:
       value: {fileID: 2800000, guid: 79e4e1e63f461af4784204317661eee7, type: 3}
     - key: Logistics
       value: {fileID: 2800000, guid: 66af7bf87be546a42b9f5a7b5957b5f4, type: 3}
+    - key: Crops
+      value: {fileID: 2800000, guid: 8f1e9a646a5616c4dadd6b1c6e6429d1, type: 3}
+    - key: Items
+      value: {fileID: 2800000, guid: 67b0fc68e3ef5554ba79729acd7b673f, type: 3}
+    - key: _ScriptableObjects
+      value: {fileID: 2800000, guid: 27fc2f9ba6debb64db2827c4cd3691f3, type: 3}

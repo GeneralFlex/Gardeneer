@@ -1,5 +1,7 @@
+using NUnit.Framework;
 using System.Collections;
 using UnityEngine;
+using System.Collections.Generic;
 
 public class MechanicalArm : MonoBehaviour
 {
@@ -41,18 +43,7 @@ public class MechanicalArm : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            target = Random.insideUnitCircle * maxArmLength + (Vector2)armBase.position;
-        }
-        target=Camera.main.ScreenToWorldPoint(Input.mousePosition);
         moveArmToPos();
-    }
-
-    private IEnumerator MoveSequence()
-    {
-
-        return null;
     }
 
     public void moveArmToPos()
@@ -88,7 +79,7 @@ public class MechanicalArm : MonoBehaviour
         shaft1.localScale = new Vector3(shaft1.localScale.x, Mathf.MoveTowards(shaft1.localScale.y, segment1length*2, Time.deltaTime*currentSpeed));
         Transform gantry1_1 = armSegment1.Find("gantry 1");
         Transform gantry1_2 = armSegment1.Find("gantry 2");
-        shaft1.localPosition = new Vector3(shaft1.localPosition.x, gantry1_1.localPosition.y+shaft1.localScale.y/4, shaft1.localPosition.z);
+        shaft1.localPosition = new Vector3(shaft1.localPosition.x, shaft1.localScale.y/4, shaft1.localPosition.z);
         gantry1_2.localPosition = new Vector3(gantry1_2.localPosition.x, shaft1.localPosition.y + shaft1.localScale.y / 4, gantry1_2.localPosition.z);
         
         arm1End.localPosition = gantry1_2.localPosition;
@@ -103,7 +94,7 @@ public class MechanicalArm : MonoBehaviour
         shaft2.localScale = new Vector3(shaft2.localScale.x, Mathf.MoveTowards(shaft2.localScale.y, segment2length*2, Time.deltaTime * currentSpeed));
         Transform gantry2_1 = armSegment2.Find("gantry 1");
         Transform gantry2_2 = armSegment2.Find("gantry 2");
-        shaft2.localPosition = new Vector3(shaft2.localPosition.x, gantry2_1.localPosition.y - shaft2.localScale.y / 4, shaft2.localPosition.z);
+        shaft2.localPosition = new Vector3(shaft2.localPosition.x, -shaft2.localScale.y / 4, shaft2.localPosition.z);
         gantry2_2.localPosition = new Vector3(gantry2_2.localPosition.x, shaft2.localPosition.y - shaft2.localScale.y / 4, gantry2_2.localPosition.z);
 
         arm2End.localPosition = gantry2_2.localPosition;
