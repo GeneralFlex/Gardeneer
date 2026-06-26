@@ -102,3 +102,5 @@ MonoBehaviour:
       value: {fileID: 2800000, guid: 67b0fc68e3ef5554ba79729acd7b673f, type: 3}
     - key: _ScriptableObjects
       value: {fileID: 2800000, guid: 27fc2f9ba6debb64db2827c4cd3691f3, type: 3}
+    - key: UI
+      value: {fileID: 2800000, guid: 67b0fc68e3ef5554ba79729acd7b673f, type: 3}

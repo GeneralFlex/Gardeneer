@@ -1,0 +1,2516 @@
+fileFormatVersion: 2
+guid: b102765bbbe5a734da4ec2aefc9475f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7856194956139729212
+    second: Gardeneer font_0
+  - first:
+      213: 4220088275720991710
+    second: Gardeneer font_1
+  - first:
+      213: 8407739860771506008
+    second: Gardeneer font_2
+  - first:
+      213: 7285326699105091121
+    second: Gardeneer font_3
+  - first:
+      213: 2255735732949038466
+    second: Gardeneer font_4
+  - first:
+      213: -4540608401952119895
+    second: Gardeneer font_5
+  - first:
+      213: 3250009295378104449
+    second: Gardeneer font_6
+  - first:
+      213: 6480561053241350144
+    second: Gardeneer font_7
+  - first:
+      213: 7844749250337486066
+    second: Gardeneer font_8
+  - first:
+      213: -8704264471787720432
+    second: Gardeneer font_9
+  - first:
+      213: 3405580115767797971
+    second: Gardeneer font_10
+  - first:
+      213: -3647429425583228331
+    second: Gardeneer font_11
+  - first:
+      213: -6144905901984047561
+    second: Gardeneer font_12
+  - first:
+      213: -9179265700449486266
+    second: Gardeneer font_13
+  - first:
+      213: -4354668532588559611
+    second: Gardeneer font_14
+  - first:
+      213: -2781649743081313058
+    second: Gardeneer font_15
+  - first:
+      213: -7915855781145368008
+    second: Gardeneer font_16
+  - first:
+      213: -3329104835820440626
+    second: Gardeneer font_17
+  - first:
+      213: -1464148203143835474
+    second: Gardeneer font_18
+  - first:
+      213: -2578940620857817574
+    second: Gardeneer font_19
+  - first:
+      213: 4295129944700337089
+    second: Gardeneer font_20
+  - first:
+      213: 2901415316379240333
+    second: Gardeneer font_21
+  - first:
+      213: 5453368743802770563
+    second: Gardeneer font_22
+  - first:
+      213: 8144791966347817703
+    second: Gardeneer font_23
+  - first:
+      213: -4010385906462905413
+    second: Gardeneer font_24
+  - first:
+      213: -1038042612729701105
+    second: Gardeneer font_25
+  - first:
+      213: -7738020097897210188
+    second: Gardeneer font_26
+  - first:
+      213: -8245764006542482999
+    second: Gardeneer font_27
+  - first:
+      213: -4133528639685316291
+    second: Gardeneer font_28
+  - first:
+      213: 810656975717097932
+    second: Gardeneer font_29
+  - first:
+      213: 1407301580249806487
+    second: Gardeneer font_30
+  - first:
+      213: 1245340553012177879
+    second: Gardeneer font_31
+  - first:
+      213: -5227705302780322496
+    second: Gardeneer font_32
+  - first:
+      213: -1575693693624595006
+    second: Gardeneer font_33
+  - first:
+      213: 2024222291988119014
+    second: Gardeneer font_34
+  - first:
+      213: -6050392952338473620
+    second: Gardeneer font_35
+  - first:
+      213: -1290698661212049635
+    second: Gardeneer font_36
+  - first:
+      213: 431065934562327776
+    second: Gardeneer font_37
+  - first:
+      213: 900169164904856712
+    second: Gardeneer font_38
+  - first:
+      213: 4607768837709929127
+    second: Gardeneer font_39
+  - first:
+      213: -6466157572235178146
+    second: Gardeneer font_40
+  - first:
+      213: 8836488071906011974
+    second: Gardeneer font_41
+  - first:
+      213: 3428185577431162135
+    second: Gardeneer font_42
+  - first:
+      213: 5179668246905002868
+    second: Gardeneer font_43
+  - first:
+      213: 8557011161493670165
+    second: Gardeneer font_44
+  - first:
+      213: -7294483321080209962
+    second: Gardeneer font_45
+  - first:
+      213: -3186777163303194526
+    second: Gardeneer font_46
+  - first:
+      213: -7158051251832634014
+    second: Gardeneer font_47
+  - first:
+      213: -5191233249808753012
+    second: Gardeneer font_48
+  - first:
+      213: 4117283547003129517
+    second: Gardeneer font_49
+  - first:
+      213: -8003575605302304785
+    second: Gardeneer font_50
+  - first:
+      213: 1447219947494150426
+    second: Gardeneer font_51
+  - first:
+      213: 963516863448330866
+    second: Gardeneer font_52
+  - first:
+      213: 987074688555762454
+    second: Gardeneer font_53
+  - first:
+      213: 4363588648933415885
+    second: Gardeneer font_54
+  - first:
+      213: -3659971495116112974
+    second: Gardeneer font_55
+  - first:
+      213: 1670275871219631019
+    second: Gardeneer font_56
+  - first:
+      213: -2539732213775829260
+    second: Gardeneer font_57
+  - first:
+      213: -7520371226331421838
+    second: Gardeneer font_58
+  - first:
+      213: 4479017679353825312
+    second: Gardeneer font_59
+  - first:
+      213: -6633562423569188589
+    second: Gardeneer font_60
+  - first:
+      213: -7053824030403242227
+    second: Gardeneer font_61
+  - first:
+      213: 5551213873423269241
+    second: Gardeneer font_62
+  - first:
+      213: -1472771847065844023
+    second: Gardeneer font_63
+  - first:
+      213: 4136272383633127150
+    second: Gardeneer font_64
+  - first:
+      213: -2951668036244797310
+    second: Gardeneer font_65
+  - first:
+      213: 4568609031534871282
+    second: Gardeneer font_66
+  - first:
+      213: 3572463250660209862
+    second: Gardeneer font_67
+  - first:
+      213: -8874932410427956131
+    second: Gardeneer font_68
+  - first:
+      213: -3972114106083669419
+    second: Gardeneer font_69
+  - first:
+      213: 5187513479206193864
+    second: Gardeneer font_70
+  - first:
+      213: -1388748767431849150
+    second: Gardeneer font_71
+  - first:
+      213: 7978723722460957782
+    second: Gardeneer font_72
+  - first:
+      213: 5065379882361117652
+    second: Gardeneer font_73
+  - first:
+      213: -1169710894239185144
+    second: Gardeneer font_74
+  - first:
+      213: -9194411985445261150
+    second: Gardeneer font_75
+  - first:
+      213: 5989658885348639206
+    second: Gardeneer font_76
+  - first:
+      213: -4538394157719625035
+    second: Gardeneer font_77
+  - first:
+      213: -5272491806959375137
+    second: Gardeneer font_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gardeneer font_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce6311bf4039f290800000000000000
+      internalID: -7856194956139729212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 153
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3f3238de3c09a30800000000000000
+      internalID: 4220088275720991710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 153
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8578d257bda4ea470800000000000000
+      internalID: 8407739860771506008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 153
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ef3d4980eaa1560800000000000000
+      internalID: 7285326699105091121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 153
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285359d92bbfd4f10800000000000000
+      internalID: 2255735732949038466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a36d7137b48cf0c0800000000000000
+      internalID: -4540608401952119895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 153
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180cabf1c3a5a1d20800000000000000
+      internalID: 3250009295378104449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 153
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0089ea341f39fe950800000000000000
+      internalID: 6480561053241350144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 153
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4b06241e52edc60800000000000000
+      internalID: 7844749250337486066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 153
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113a00849d343780800000000000000
+      internalID: -8704264471787720432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 136
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8297e521d034f20800000000000000
+      internalID: 3405580115767797971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 136
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55afdc8234ab16dc0800000000000000
+      internalID: -3647429425583228331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e1a06a3a8e8baa0800000000000000
+      internalID: -6144905901984047561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 136
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af7c1ba72bc9080800000000000000
+      internalID: -9179265700449486266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503cc78aa0c1193c0800000000000000
+      internalID: -4354668532588559611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 136
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edce416eb489569d0800000000000000
+      internalID: -2781649743081313058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 136
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83aab976b1b352290800000000000000
+      internalID: -7915855781145368008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec333e84ac4acc1d0800000000000000
+      internalID: -3329104835820440626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 135
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0d51577fc4eabe0800000000000000
+      internalID: -1464148203143835474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16c1fc4b23c53cd0800000000000000
+      internalID: -2578940620857817574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb10a9ded5b9b30800000000000000
+      internalID: 4295129944700337089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 119
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8789ae9bd5e34820800000000000000
+      internalID: 2901415316379240333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 119
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841593baf14eab40800000000000000
+      internalID: 5453368743802770563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 119
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2fd93f32d180170800000000000000
+      internalID: 8144791966347817703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 119
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbab09144f3858c0800000000000000
+      internalID: -4010385906462905413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 119
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d17865eb12891f0800000000000000
+      internalID: -1038042612729701105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 119
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bed00008b70d9490800000000000000
+      internalID: -7738020097897210188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 119
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16550f259219d80800000000000000
+      internalID: -8245764006542482999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3137a24a91c2a6c0800000000000000
+      internalID: -4133528639685316291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 102
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc16f407938004b00800000000000000
+      internalID: 810656975717097932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796b2aeb45db78310800000000000000
+      internalID: 1407301580249806487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 102
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbeda682a6584110800000000000000
+      internalID: 1245340553012177879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5a5589b57377b0800000000000000
+      internalID: -5227705302780322496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 102
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdceac1fe2022ae0800000000000000
+      internalID: -1575693693624595006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf064237b771c10800000000000000
+      internalID: 2024222291988119014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 102
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d965c8aafa80ca0800000000000000
+      internalID: -6050392952338473620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 102
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f2262f764861ee0800000000000000
+      internalID: -1290698661212049635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 102
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecfb500f247bf500800000000000000
+      internalID: 431065934562327776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cf9ef061b0e7c00800000000000000
+      internalID: 900169164904856712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa90da485512ff30800000000000000
+      internalID: 4607768837709929127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 85
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f483d72f79346a0800000000000000
+      internalID: -6466157572235178146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 68
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2feb651381aa70800000000000000
+      internalID: 8836488071906011974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dd6ee8e9c539f20800000000000000
+      internalID: 3428185577431162135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 85
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b9427d3d0e1e740800000000000000
+      internalID: 5179668246905002868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 85
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51902eb705c90c670800000000000000
+      internalID: 8557011161493670165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd900b311ac4ca90800000000000000
+      internalID: -7294483321080209962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2607cf2ed0b46c3d0800000000000000
+      internalID: -3186777163303194526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 68
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c97abf4e79ac90800000000000000
+      internalID: -7158051251832634014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_48
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed3f61dd805f7b0800000000000000
+      internalID: -5191233249808753012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 68
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8eaa5297832930800000000000000
+      internalID: 4117283547003129517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_50
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 68
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef59f844669de090800000000000000
+      internalID: -8003575605302304785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 85
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119f32efde851410800000000000000
+      internalID: 1447219947494150426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 85
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272bfec7b791f5d00800000000000000
+      internalID: 963516863448330866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 85
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6134522133bc2bd00800000000000000
+      internalID: 987074688555762454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 68
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb5a95c1c49e8c30800000000000000
+      internalID: 4363588648933415885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb7c89015b253dc0800000000000000
+      internalID: -3659971495116112974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 51
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c3fc2e030e2710800000000000000
+      internalID: 1670275871219631019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 51
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f67645f10f01ccd0800000000000000
+      internalID: -2539732213775829260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273627bd63642a790800000000000000
+      internalID: -7520371226331421838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 51
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028449839daa82e30800000000000000
+      internalID: 4479017679353825312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_60
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31977c33f1ad0f3a0800000000000000
+      internalID: -6633562423569188589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0753b7ca68cb1e90800000000000000
+      internalID: -7053824030403242227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3d953b9fd90d40800000000000000
+      internalID: 5551213873423269241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 51
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c174eec9af8be0800000000000000
+      internalID: -1472771847065844023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f5b861ddf66930800000000000000
+      internalID: 4136272383633127150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28801c44f819907d0800000000000000
+      internalID: -2951668036244797310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2074a65b5f66f30800000000000000
+      internalID: 4568609031534871282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 34
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c43db41660f39130800000000000000
+      internalID: 3572463250660209862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5427de7ef7e5d480800000000000000
+      internalID: -8874932410427956131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a8093044730e8c0800000000000000
+      internalID: -3972114106083669419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 34
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cac2a35600cdf740800000000000000
+      internalID: 5187513479206193864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b86fa9a5c2abce0800000000000000
+      internalID: -1388748767431849150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8446d3fe1abe60800000000000000
+      internalID: 7978723722460957782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db5b8c5a28db4640800000000000000
+      internalID: 5065379882361117652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80708fa932a54cfe0800000000000000
+      internalID: -1169710894239185144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0f0f86303e66080800000000000000
+      internalID: -9194411985445261150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_76
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c7fa850b8f1350800000000000000
+      internalID: 5989658885348639206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e96a1f826401c0800000000000000
+      internalID: -4538394157719625035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc670de2a854d6b0800000000000000
+      internalID: -5272491806959375137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa341b0af26664b8a7db3d4cc731a8
+      internalID: -1792002728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d443220125eb22e4eaea2b60bfd6ac1f
+      internalID: 1133822950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_81
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3679cd79ef5464586fad7282ee58f8
+      internalID: -403855216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_82
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd26b7b7a137e7c40b81bb6115f7bd39
+      internalID: -1149536880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53cfec97717b148b0524ba26e8b540
+      internalID: 409601756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 68
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dbf8387d0087042a69fbfb134c16d7
+      internalID: 1626397742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 68
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570f1495cbef18429f2991255fecb0e
+      internalID: 875990985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27385ba03d0494a9294ee41df7cd90
+      internalID: -749662391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_87
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f0dd890ef3f84d9e795c118bc08a3
+      internalID: 751206566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 51
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f77d1f46f23724f809c9a802dc65d3
+      internalID: 720643461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_89
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 136
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac95de65686a44895f3c6e7f9aa902
+      internalID: 1833215544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab4cd6339464c48bcfd5cdd4440035
+      internalID: 2048203714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 68
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be4e8aba434d44883f24f1cdb8fd58
+      internalID: 1408363201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a0330ab90ef44bbc2a3de809b1769
+      internalID: 2101234381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font_93
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 17
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca28b67e264360c4c8357b8321b6a99d
+      internalID: 406852432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 92a5f0d5b55b18a44aa26942a441a2f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gardeneer font_0: -7856194956139729212
+      Gardeneer font_1: 4220088275720991710
+      Gardeneer font_10: 3405580115767797971
+      Gardeneer font_11: -3647429425583228331
+      Gardeneer font_12: -6144905901984047561
+      Gardeneer font_13: -9179265700449486266
+      Gardeneer font_14: -4354668532588559611
+      Gardeneer font_15: -2781649743081313058
+      Gardeneer font_16: -7915855781145368008
+      Gardeneer font_17: -3329104835820440626
+      Gardeneer font_18: -1464148203143835474
+      Gardeneer font_19: -2578940620857817574
+      Gardeneer font_2: 8407739860771506008
+      Gardeneer font_20: 4295129944700337089
+      Gardeneer font_21: 2901415316379240333
+      Gardeneer font_22: 5453368743802770563
+      Gardeneer font_23: 8144791966347817703
+      Gardeneer font_24: -4010385906462905413
+      Gardeneer font_25: -1038042612729701105
+      Gardeneer font_26: -7738020097897210188
+      Gardeneer font_27: -8245764006542482999
+      Gardeneer font_28: -4133528639685316291
+      Gardeneer font_29: 810656975717097932
+      Gardeneer font_3: 7285326699105091121
+      Gardeneer font_30: 1407301580249806487
+      Gardeneer font_31: 1245340553012177879
+      Gardeneer font_32: -5227705302780322496
+      Gardeneer font_33: -1575693693624595006
+      Gardeneer font_34: 2024222291988119014
+      Gardeneer font_35: -6050392952338473620
+      Gardeneer font_36: -1290698661212049635
+      Gardeneer font_37: 431065934562327776
+      Gardeneer font_38: 900169164904856712
+      Gardeneer font_39: 4607768837709929127
+      Gardeneer font_4: 2255735732949038466
+      Gardeneer font_40: -6466157572235178146
+      Gardeneer font_41: 8836488071906011974
+      Gardeneer font_42: 3428185577431162135
+      Gardeneer font_43: 5179668246905002868
+      Gardeneer font_44: 8557011161493670165
+      Gardeneer font_45: -7294483321080209962
+      Gardeneer font_46: -3186777163303194526
+      Gardeneer font_47: -7158051251832634014
+      Gardeneer font_48: -5191233249808753012
+      Gardeneer font_49: 4117283547003129517
+      Gardeneer font_5: -4540608401952119895
+      Gardeneer font_50: -8003575605302304785
+      Gardeneer font_51: 1447219947494150426
+      Gardeneer font_52: 963516863448330866
+      Gardeneer font_53: 987074688555762454
+      Gardeneer font_54: 4363588648933415885
+      Gardeneer font_55: -3659971495116112974
+      Gardeneer font_56: 1670275871219631019
+      Gardeneer font_57: -2539732213775829260
+      Gardeneer font_58: -7520371226331421838
+      Gardeneer font_59: 4479017679353825312
+      Gardeneer font_6: 3250009295378104449
+      Gardeneer font_60: -6633562423569188589
+      Gardeneer font_61: -7053824030403242227
+      Gardeneer font_62: 5551213873423269241
+      Gardeneer font_63: -1472771847065844023
+      Gardeneer font_64: 4136272383633127150
+      Gardeneer font_65: -2951668036244797310
+      Gardeneer font_66: 4568609031534871282
+      Gardeneer font_67: 3572463250660209862
+      Gardeneer font_68: -8874932410427956131
+      Gardeneer font_69: -3972114106083669419
+      Gardeneer font_7: 6480561053241350144
+      Gardeneer font_70: 5187513479206193864
+      Gardeneer font_71: -1388748767431849150
+      Gardeneer font_72: 7978723722460957782
+      Gardeneer font_73: 5065379882361117652
+      Gardeneer font_74: -1169710894239185144
+      Gardeneer font_75: -9194411985445261150
+      Gardeneer font_76: 5989658885348639206
+      Gardeneer font_77: -4538394157719625035
+      Gardeneer font_78: -5272491806959375137
+      Gardeneer font_79: -1792002728
+      Gardeneer font_8: 7844749250337486066
+      Gardeneer font_80: 1133822950
+      Gardeneer font_81: -403855216
+      Gardeneer font_82: -1149536880
+      Gardeneer font_83: 409601756
+      Gardeneer font_84: 1626397742
+      Gardeneer font_85: 875990985
+      Gardeneer font_86: -749662391
+      Gardeneer font_87: 751206566
+      Gardeneer font_88: 720643461
+      Gardeneer font_89: 1833215544
+      Gardeneer font_9: -8704264471787720432
+      Gardeneer font_90: 2048203714
+      Gardeneer font_91: 1408363201
+      Gardeneer font_92: 2101234381
+      Gardeneer font_93: 406852432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

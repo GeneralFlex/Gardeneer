@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: 3f756696e5ecf354d9c574f299f212d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8270084240974385631
+    second: ExportedAtlas_0
+  - first:
+      213: 2322785307820490930
+    second: ExportedAtlas_1
+  - first:
+      213: 1144687457193157845
+    second: ExportedAtlas_2
+  - first:
+      213: 1215479262155415688
+    second: ExportedAtlas_3
+  - first:
+      213: -2396076086224193862
+    second: ExportedAtlas_4
+  - first:
+      213: 5812349635922207608
+    second: ExportedAtlas_5
+  - first:
+      213: 841597090379363904
+    second: ExportedAtlas_6
+  - first:
+      213: -4914979276649010084
+    second: ExportedAtlas_7
+  - first:
+      213: 2183954214191212225
+    second: ExportedAtlas_8
+  - first:
+      213: 4907291263747974394
+    second: ExportedAtlas_9
+  - first:
+      213: -8021245988517388280
+    second: ExportedAtlas_10
+  - first:
+      213: -7101288482584523122
+    second: ExportedAtlas_11
+  - first:
+      213: 46501435165147210
+    second: ExportedAtlas_12
+  - first:
+      213: 3758161036665286703
+    second: ExportedAtlas_13
+  - first:
+      213: 8888679979668076690
+    second: ExportedAtlas_14
+  - first:
+      213: -6892060950179929340
+    second: ExportedAtlas_15
+  - first:
+      213: -5023321837291803908
+    second: ExportedAtlas_16
+  - first:
+      213: -320952707088865824
+    second: ExportedAtlas_17
+  - first:
+      213: -7246769757400303399
+    second: ExportedAtlas_18
+  - first:
+      213: 8149108930669352108
+    second: ExportedAtlas_19
+  - first:
+      213: -8532768788468947480
+    second: ExportedAtlas_20
+  - first:
+      213: 2273468943825380341
+    second: ExportedAtlas_21
+  - first:
+      213: 3018823610719235271
+    second: ExportedAtlas_22
+  - first:
+      213: 1151021844283221640
+    second: ExportedAtlas_23
+  - first:
+      213: -6262157026016903652
+    second: ExportedAtlas_24
+  - first:
+      213: -3772623301049396154
+    second: ExportedAtlas_25
+  - first:
+      213: 6520843830691321452
+    second: ExportedAtlas_26
+  - first:
+      213: 3943074680626093187
+    second: ExportedAtlas_27
+  - first:
+      213: 4151213357760918433
+    second: ExportedAtlas_28
+  - first:
+      213: 2455994349931500340
+    second: ExportedAtlas_29
+  - first:
+      213: 6805766522114702823
+    second: ExportedAtlas_30
+  - first:
+      213: 4941455417071644935
+    second: ExportedAtlas_31
+  - first:
+      213: 8562257216936271670
+    second: ExportedAtlas_32
+  - first:
+      213: -758547086735055782
+    second: ExportedAtlas_33
+  - first:
+      213: -3277296800124541897
+    second: ExportedAtlas_34
+  - first:
+      213: 2776461689480575749
+    second: ExportedAtlas_35
+  - first:
+      213: -9108653379925085582
+    second: ExportedAtlas_36
+  - first:
+      213: -8815326773473791988
+    second: ExportedAtlas_37
+  - first:
+      213: 5204088020253456839
+    second: ExportedAtlas_38
+  - first:
+      213: 1099043998482300196
+    second: ExportedAtlas_39
+  - first:
+      213: 7692626526997458868
+    second: ExportedAtlas_40
+  - first:
+      213: 7908143870534559508
+    second: ExportedAtlas_41
+  - first:
+      213: 6403860522978702369
+    second: ExportedAtlas_42
+  - first:
+      213: 2835312252385751389
+    second: ExportedAtlas_43
+  - first:
+      213: -7522875557060942354
+    second: ExportedAtlas_44
+  - first:
+      213: 3651729317986464959
+    second: ExportedAtlas_45
+  - first:
+      213: 42494018559633248
+    second: ExportedAtlas_46
+  - first:
+      213: 4255959387569295765
+    second: ExportedAtlas_47
+  - first:
+      213: -8725955591982645707
+    second: ExportedAtlas_48
+  - first:
+      213: 1181969555168087809
+    second: ExportedAtlas_49
+  - first:
+      213: 5794509140347347388
+    second: ExportedAtlas_50
+  - first:
+      213: 8971178579807795442
+    second: ExportedAtlas_51
+  - first:
+      213: 3054028024783109672
+    second: ExportedAtlas_52
+  - first:
+      213: 4008504726429482645
+    second: ExportedAtlas_53
+  - first:
+      213: -7701563142283557504
+    second: ExportedAtlas_54
+  - first:
+      213: 2054031282047642661
+    second: ExportedAtlas_55
+  - first:
+      213: -8797333879184282941
+    second: ExportedAtlas_56
+  - first:
+      213: -3399821426509729539
+    second: ExportedAtlas_57
+  - first:
+      213: -2026118854431638206
+    second: ExportedAtlas_58
+  - first:
+      213: 5777479523519463621
+    second: ExportedAtlas_59
+  - first:
+      213: -798586197987337179
+    second: ExportedAtlas_60
+  - first:
+      213: 2373813685235077613
+    second: ExportedAtlas_61
+  - first:
+      213: 3653560186202262419
+    second: ExportedAtlas_62
+  - first:
+      213: -4962625982228824579
+    second: ExportedAtlas_63
+  - first:
+      213: -5514538046516704666
+    second: ExportedAtlas_64
+  - first:
+      213: 8547585382391046450
+    second: ExportedAtlas_65
+  - first:
+      213: -3334384631287639298
+    second: ExportedAtlas_66
+  - first:
+      213: 1785543532023283955
+    second: ExportedAtlas_67
+  - first:
+      213: 3103471114359591470
+    second: ExportedAtlas_68
+  - first:
+      213: -5619941468083023250
+    second: ExportedAtlas_69
+  - first:
+      213: 883941597317867751
+    second: ExportedAtlas_70
+  - first:
+      213: 6140036599634899301
+    second: ExportedAtlas_71
+  - first:
+      213: -5276090380437378667
+    second: ExportedAtlas_72
+  - first:
+      213: 6569028393814446079
+    second: ExportedAtlas_73
+  - first:
+      213: 794060203552123853
+    second: ExportedAtlas_74
+  - first:
+      213: -9186167796037038926
+    second: ExportedAtlas_75
+  - first:
+      213: -3047057010808664881
+    second: ExportedAtlas_76
+  - first:
+      213: 1883570304038818206
+    second: ExportedAtlas_77
+  - first:
+      213: 5362199604371401902
+    second: ExportedAtlas_78
+  - first:
+      213: 5297425543277842830
+    second: ExportedAtlas_79
+  - first:
+      213: 3352526993948579302
+    second: ExportedAtlas_80
+  - first:
+      213: -3371239792092068897
+    second: ExportedAtlas_81
+  - first:
+      213: 1345987922781423435
+    second: ExportedAtlas_82
+  - first:
+      213: 6053608989330080144
+    second: ExportedAtlas_83
+  - first:
+      213: 209417737028532391
+    second: ExportedAtlas_84
+  - first:
+      213: 3175634578705098492
+    second: ExportedAtlas_85
+  - first:
+      213: -3066952460813283918
+    second: ExportedAtlas_86
+  - first:
+      213: -3945559035706141344
+    second: ExportedAtlas_87
+  - first:
+      213: 5887113693708629294
+    second: ExportedAtlas_88
+  - first:
+      213: 5257517788811220154
+    second: ExportedAtlas_89
+  - first:
+      213: 6964313398909635011
+    second: ExportedAtlas_90
+  - first:
+      213: 7926611618389572291
+    second: ExportedAtlas_91
+  - first:
+      213: 8103581393158881037
+    second: ExportedAtlas_92
+  - first:
+      213: -2729225853046697971
+    second: ExportedAtlas_93
+  - first:
+      213: 2840997891808657775
+    second: ExportedAtlas_94
+  - first:
+      213: -4151229323759505028
+    second: ExportedAtlas_95
+  - first:
+      213: 8644802701218424803
+    second: ExportedAtlas_96
+  - first:
+      213: 738172754788602518
+    second: ExportedAtlas_97
+  - first:
+      213: -2866182394359181755
+    second: ExportedAtlas_98
+  - first:
+      213: -7721167315638932432
+    second: ExportedAtlas_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExportedAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 899
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd195d5eccd35c270800000000000000
+      internalID: 8270084240974385631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 899
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0032a4ee03c3020800000000000000
+      internalID: 2322785307820490930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 899
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e7d07d2fb2ef00800000000000000
+      internalID: 1144687457193157845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 995
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a0a4f2ff3ed010800000000000000
+      internalID: 1215479262155415688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 899
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67cc99e7d6fbed0800000000000000
+      internalID: -2396076086224193862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 787
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a38fd23d99a050800000000000000
+      internalID: 5812349635922207608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 787
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04670104814fdab00800000000000000
+      internalID: 841597090379363904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 787
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cede8736c7acbb0800000000000000
+      internalID: -4914979276649010084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 787
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a59669c6fe4e10800000000000000
+      internalID: 2183954214191212225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 779
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4631987633a1440800000000000000
+      internalID: 4907291263747974394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 675
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800e466954fcea090800000000000000
+      internalID: -8021245988517388280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 675
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e0af3dfb7237d90800000000000000
+      internalID: -7101288482584523122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 675
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4080941fc435a000800000000000000
+      internalID: 46501435165147210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 675
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20f52f1d8ba72430800000000000000
+      internalID: 3758161036665286703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 675
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298fd36e85fea5b70800000000000000
+      internalID: 8888679979668076690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 563
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4032f2ed41b7a50a0800000000000000
+      internalID: -6892060950179929340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 563
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa62c75763994ab0800000000000000
+      internalID: -5023321837291803908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 563
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5a440a63fbb8bf0800000000000000
+      internalID: -320952707088865824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 563
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d87c19fc4d4e6b90800000000000000
+      internalID: -7246769757400303399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 643
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca492888563771170800000000000000
+      internalID: 8149108930669352108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 611
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5a4c4def3859980800000000000000
+      internalID: -8532768788468947480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 563
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3289485fbfc8f10800000000000000
+      internalID: 2273468943825380341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 451
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc6b7c541405e920800000000000000
+      internalID: 3018823610719235271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 451
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886673dd44049ff00800000000000000
+      internalID: 1151021844283221640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 451
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ebb88fc595819a0800000000000000
+      internalID: -6262157026016903652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 451
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644d69d8813f4abc0800000000000000
+      internalID: -3772623301049396154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 507
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6657244ae0be7a50800000000000000
+      internalID: 6520843830691321452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 475
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c1e8dd78d98b630800000000000000
+      internalID: 3943074680626093187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 339
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a332380e821c9930800000000000000
+      internalID: 4151213357760918433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 339
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433980e49d1751220800000000000000
+      internalID: 2455994349931500340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 339
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed74e6e790f27e50800000000000000
+      internalID: 6805766522114702823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 435
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013cf75583939440800000000000000
+      internalID: 4941455417071644935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 435
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fd203f29f33d670800000000000000
+      internalID: 8562257216936271670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 419
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54efbd81791975f0800000000000000
+      internalID: -758547086735055782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 395
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7346d059ce3b482d0800000000000000
+      internalID: -3277296800124541897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 395
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b78fd3239f78620800000000000000
+      internalID: 2776461689480575749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 403
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272776bb200979180800000000000000
+      internalID: -9108653379925085582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 339
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00ba10510ba9a580800000000000000
+      internalID: -8815326773473791988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 395
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9b2136b72a83840800000000000000
+      internalID: 5204088020253456839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 395
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dff0291b6904f00800000000000000
+      internalID: 1099043998482300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 395
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf2e6ba113b1ca60800000000000000
+      internalID: 7692626526997458868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 379
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41725eb73fe5fbd60800000000000000
+      internalID: 7908143870534559508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124fa4f67351fd850800000000000000
+      internalID: 6403860522978702369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 227
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51f3cea87d095720800000000000000
+      internalID: 2835312252385751389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5e9ebe980699790800000000000000
+      internalID: -7522875557060942354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 323
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4767e877c8da230800000000000000
+      internalID: 3651729317986464959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 323
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676351b518f69000800000000000000
+      internalID: 42494018559633248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 323
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5919e829384301b30800000000000000
+      internalID: 4255959387569295765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 299
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e7a060f9d27e680800000000000000
+      internalID: -8725955591982645707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 299
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fce1f4c03376010800000000000000
+      internalID: 1181969555168087809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 299
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1682ecc5b3a6050800000000000000
+      internalID: 5794509140347347388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 283
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f879021367008c70800000000000000
+      internalID: 8971178579807795442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 283
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ef84fbe46126a20800000000000000
+      internalID: 3054028024783109672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 227
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ebd4b8fc111a730800000000000000
+      internalID: 4008504726429482645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 227
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08582f0702d8e1590800000000000000
+      internalID: -7701563142283557504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 227
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c6dfb7192618c10800000000000000
+      internalID: 2054031282047642661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_56
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 227
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca26b8727799e580800000000000000
+      internalID: -8797333879184282941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_57
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 283
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df03025fc6861d0d0800000000000000
+      internalID: -3399821426509729539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_58
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 267
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d71e003a7c1e3e0800000000000000
+      internalID: -2026118854431638206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c08878240bbd2050800000000000000
+      internalID: 5777479523519463621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 115
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c5f62851adae4f0800000000000000
+      internalID: -798586197987337179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 115
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1d56f38fa71f020800000000000000
+      internalID: 2373813685235077613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 115
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b8818c1ad04b230800000000000000
+      internalID: 3653560186202262419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_63
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 115
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd702856f5312bb0800000000000000
+      internalID: -4962625982228824579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 147
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66acefc2ddc6873b0800000000000000
+      internalID: -5514538046516704666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_65
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 115
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316db44e9f1f9670800000000000000
+      internalID: 8547585382391046450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_66
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 211
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2149b18d2e9b1d0800000000000000
+      internalID: -3334384631287639298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_67
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 211
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08e35d16687c810800000000000000
+      internalID: 1785543532023283955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_68
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 211
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22d61e198eb11b20800000000000000
+      internalID: 3103471114359591470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_69
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 187
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629c60b205f102b0800000000000000
+      internalID: -5619941468083023250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_70
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 179
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8a25e0334644c00800000000000000
+      internalID: 883941597317867751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_71
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 179
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561b22d81cac53550800000000000000
+      internalID: 6140036599634899301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_72
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 179
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599ac2fb0cf87c6b0800000000000000
+      internalID: -5276090380437378667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_73
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 211
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffc3cc1580e92b50800000000000000
+      internalID: 6569028393814446079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_74
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 115
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbaffa4c81150b00800000000000000
+      internalID: 794060203552123853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 115
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc44165f0d248080800000000000000
+      internalID: -9186167796037038926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_76
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 115
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc26ceacda6b5d0800000000000000
+      internalID: -3047057010808664881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_77
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 99
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9155b14639c32a10800000000000000
+      internalID: 1883570304038818206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_78
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 99
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac2c49412c5a6a40800000000000000
+      internalID: 5362199604371401902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_79
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 75
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e811823f67c348940800000000000000
+      internalID: 5297425543277842830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_80
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 107
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5963ed981968e20800000000000000
+      internalID: 3352526993948579302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_81
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 83
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3c0bb4543f631d0800000000000000
+      internalID: -3371239792092068897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_82
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 83
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b474a5962e8eda210800000000000000
+      internalID: 1345987922781423435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_83
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 83
+        width: 26
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091812a6d4db20450800000000000000
+      internalID: 6053608989330080144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_84
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 107
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87041825008e200800000000000000
+      internalID: 209417737028532391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf62a28f2de121c20800000000000000
+      internalID: 3175634578705098492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc63e7cfeff65d0800000000000000
+      internalID: -3066952460813283918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065176426fe8e39c0800000000000000
+      internalID: -3945559035706141344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_88
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2537d196ba33b150800000000000000
+      internalID: 5887113693708629294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_89
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4d36ac29476f840800000000000000
+      internalID: 5257517788811220154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c98086432636a060800000000000000
+      internalID: 6964313398909635011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca389a154bf00e60800000000000000
+      internalID: 7926611618389572291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_92
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f33bba754b57070800000000000000
+      internalID: 8103581393158881037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_93
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00d655fb87df1ad0800000000000000
+      internalID: -2729225853046697971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_94
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6183e4c7804d6720800000000000000
+      internalID: 2840997891808657775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_95
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 75
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7131289ceed366c0800000000000000
+      internalID: -4151229323759505028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_96
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 3
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7267f214288f770800000000000000
+      internalID: 8644802701218424803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_97
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 3
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692db00a5348e3a00800000000000000
+      internalID: 738172754788602518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_98
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0eba4c464938d0800000000000000
+      internalID: -2866182394359181755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExportedAtlas_99
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c2cf32c37e8d490800000000000000
+      internalID: -7721167315638932432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ExportedAtlas_0: 8270084240974385631
+      ExportedAtlas_1: 2322785307820490930
+      ExportedAtlas_10: -8021245988517388280
+      ExportedAtlas_11: -7101288482584523122
+      ExportedAtlas_12: 46501435165147210
+      ExportedAtlas_13: 3758161036665286703
+      ExportedAtlas_14: 8888679979668076690
+      ExportedAtlas_15: -6892060950179929340
+      ExportedAtlas_16: -5023321837291803908
+      ExportedAtlas_17: -320952707088865824
+      ExportedAtlas_18: -7246769757400303399
+      ExportedAtlas_19: 8149108930669352108
+      ExportedAtlas_2: 1144687457193157845
+      ExportedAtlas_20: -8532768788468947480
+      ExportedAtlas_21: 2273468943825380341
+      ExportedAtlas_22: 3018823610719235271
+      ExportedAtlas_23: 1151021844283221640
+      ExportedAtlas_24: -6262157026016903652
+      ExportedAtlas_25: -3772623301049396154
+      ExportedAtlas_26: 6520843830691321452
+      ExportedAtlas_27: 3943074680626093187
+      ExportedAtlas_28: 4151213357760918433
+      ExportedAtlas_29: 2455994349931500340
+      ExportedAtlas_3: 1215479262155415688
+      ExportedAtlas_30: 6805766522114702823
+      ExportedAtlas_31: 4941455417071644935
+      ExportedAtlas_32: 8562257216936271670
+      ExportedAtlas_33: -758547086735055782
+      ExportedAtlas_34: -3277296800124541897
+      ExportedAtlas_35: 2776461689480575749
+      ExportedAtlas_36: -9108653379925085582
+      ExportedAtlas_37: -8815326773473791988
+      ExportedAtlas_38: 5204088020253456839
+      ExportedAtlas_39: 1099043998482300196
+      ExportedAtlas_4: -2396076086224193862
+      ExportedAtlas_40: 7692626526997458868
+      ExportedAtlas_41: 7908143870534559508
+      ExportedAtlas_42: 6403860522978702369
+      ExportedAtlas_43: 2835312252385751389
+      ExportedAtlas_44: -7522875557060942354
+      ExportedAtlas_45: 3651729317986464959
+      ExportedAtlas_46: 42494018559633248
+      ExportedAtlas_47: 4255959387569295765
+      ExportedAtlas_48: -8725955591982645707
+      ExportedAtlas_49: 1181969555168087809
+      ExportedAtlas_5: 5812349635922207608
+      ExportedAtlas_50: 5794509140347347388
+      ExportedAtlas_51: 8971178579807795442
+      ExportedAtlas_52: 3054028024783109672
+      ExportedAtlas_53: 4008504726429482645
+      ExportedAtlas_54: -7701563142283557504
+      ExportedAtlas_55: 2054031282047642661
+      ExportedAtlas_56: -8797333879184282941
+      ExportedAtlas_57: -3399821426509729539
+      ExportedAtlas_58: -2026118854431638206
+      ExportedAtlas_59: 5777479523519463621
+      ExportedAtlas_6: 841597090379363904
+      ExportedAtlas_60: -798586197987337179
+      ExportedAtlas_61: 2373813685235077613
+      ExportedAtlas_62: 3653560186202262419
+      ExportedAtlas_63: -4962625982228824579
+      ExportedAtlas_64: -5514538046516704666
+      ExportedAtlas_65: 8547585382391046450
+      ExportedAtlas_66: -3334384631287639298
+      ExportedAtlas_67: 1785543532023283955
+      ExportedAtlas_68: 3103471114359591470
+      ExportedAtlas_69: -5619941468083023250
+      ExportedAtlas_7: -4914979276649010084
+      ExportedAtlas_70: 883941597317867751
+      ExportedAtlas_71: 6140036599634899301
+      ExportedAtlas_72: -5276090380437378667
+      ExportedAtlas_73: 6569028393814446079
+      ExportedAtlas_74: 794060203552123853
+      ExportedAtlas_75: -9186167796037038926
+      ExportedAtlas_76: -3047057010808664881
+      ExportedAtlas_77: 1883570304038818206
+      ExportedAtlas_78: 5362199604371401902
+      ExportedAtlas_79: 5297425543277842830
+      ExportedAtlas_8: 2183954214191212225
+      ExportedAtlas_80: 3352526993948579302
+      ExportedAtlas_81: -3371239792092068897
+      ExportedAtlas_82: 1345987922781423435
+      ExportedAtlas_83: 6053608989330080144
+      ExportedAtlas_84: 209417737028532391
+      ExportedAtlas_85: 3175634578705098492
+      ExportedAtlas_86: -3066952460813283918
+      ExportedAtlas_87: -3945559035706141344
+      ExportedAtlas_88: 5887113693708629294
+      ExportedAtlas_89: 5257517788811220154
+      ExportedAtlas_9: 4907291263747974394
+      ExportedAtlas_90: 6964313398909635011
+      ExportedAtlas_91: 7926611618389572291
+      ExportedAtlas_92: 8103581393158881037
+      ExportedAtlas_93: -2729225853046697971
+      ExportedAtlas_94: 2840997891808657775
+      ExportedAtlas_95: -4151229323759505028
+      ExportedAtlas_96: 8644802701218424803
+      ExportedAtlas_97: 738172754788602518
+      ExportedAtlas_98: -2866182394359181755
+      ExportedAtlas_99: -7721167315638932432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: ab168fc0f9ced1a41a8992673d41c8c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 440594585896142977
+    second: Gardeneer font atlas_0
+  - first:
+      213: 6777254804906264197
+    second: Gardeneer font atlas_1
+  - first:
+      213: 2438558999690350519
+    second: Gardeneer font atlas_2
+  - first:
+      213: -1033428855860072275
+    second: Gardeneer font atlas_3
+  - first:
+      213: 5552288781612223970
+    second: Gardeneer font atlas_4
+  - first:
+      213: -930613389860220022
+    second: Gardeneer font atlas_5
+  - first:
+      213: 7699396365088713788
+    second: Gardeneer font atlas_6
+  - first:
+      213: 8519577420189332385
+    second: Gardeneer font atlas_7
+  - first:
+      213: 6561597449890022319
+    second: Gardeneer font atlas_8
+  - first:
+      213: -301868358893961486
+    second: Gardeneer font atlas_9
+  - first:
+      213: 2077993845154961184
+    second: Gardeneer font atlas_10
+  - first:
+      213: 1593056693702957184
+    second: Gardeneer font atlas_11
+  - first:
+      213: 4280012202845921322
+    second: Gardeneer font atlas_12
+  - first:
+      213: -7559138141110339306
+    second: Gardeneer font atlas_13
+  - first:
+      213: 5741482758524460782
+    second: Gardeneer font atlas_14
+  - first:
+      213: -5834975309726363769
+    second: Gardeneer font atlas_15
+  - first:
+      213: -6884444399116845038
+    second: Gardeneer font atlas_16
+  - first:
+      213: -4433345651538071008
+    second: Gardeneer font atlas_17
+  - first:
+      213: 6308216340951820655
+    second: Gardeneer font atlas_18
+  - first:
+      213: 9189464170693629617
+    second: Gardeneer font atlas_19
+  - first:
+      213: 5445224813266703568
+    second: Gardeneer font atlas_20
+  - first:
+      213: 5985349712670190950
+    second: Gardeneer font atlas_21
+  - first:
+      213: 2280793364436094650
+    second: Gardeneer font atlas_22
+  - first:
+      213: 3340604380147176633
+    second: Gardeneer font atlas_23
+  - first:
+      213: -213391222534836175
+    second: Gardeneer font atlas_24
+  - first:
+      213: 5092684221482082080
+    second: Gardeneer font atlas_25
+  - first:
+      213: -6165794581097477893
+    second: Gardeneer font atlas_26
+  - first:
+      213: 1761090195066309603
+    second: Gardeneer font atlas_27
+  - first:
+      213: 3979702818046239915
+    second: Gardeneer font atlas_28
+  - first:
+      213: 566957535891977072
+    second: Gardeneer font atlas_29
+  - first:
+      213: -5141534427652030334
+    second: Gardeneer font atlas_30
+  - first:
+      213: 7175947683978007113
+    second: Gardeneer font atlas_31
+  - first:
+      213: 6070789854061913381
+    second: Gardeneer font atlas_32
+  - first:
+      213: -657970941633013089
+    second: Gardeneer font atlas_33
+  - first:
+      213: 679565233089265343
+    second: Gardeneer font atlas_34
+  - first:
+      213: 4916577771538767432
+    second: Gardeneer font atlas_35
+  - first:
+      213: 53256579839160305
+    second: Gardeneer font atlas_36
+  - first:
+      213: -8699187107893696397
+    second: Gardeneer font atlas_37
+  - first:
+      213: 5937687717369024339
+    second: Gardeneer font atlas_38
+  - first:
+      213: -3507954814211750759
+    second: Gardeneer font atlas_39
+  - first:
+      213: 5054968493084690782
+    second: Gardeneer font atlas_40
+  - first:
+      213: 356099078710229593
+    second: Gardeneer font atlas_41
+  - first:
+      213: -8579875872336618973
+    second: Gardeneer font atlas_42
+  - first:
+      213: -8237916543920616140
+    second: Gardeneer font atlas_43
+  - first:
+      213: 5976844361607791559
+    second: Gardeneer font atlas_44
+  - first:
+      213: -3288734795597816176
+    second: Gardeneer font atlas_45
+  - first:
+      213: -9090329868279715179
+    second: Gardeneer font atlas_46
+  - first:
+      213: -3031004106975858892
+    second: Gardeneer font atlas_47
+  - first:
+      213: -3613170471885842401
+    second: Gardeneer font atlas_48
+  - first:
+      213: 8904823221103241822
+    second: Gardeneer font atlas_49
+  - first:
+      213: -4981045512915346658
+    second: Gardeneer font atlas_50
+  - first:
+      213: 925362007788644851
+    second: Gardeneer font atlas_51
+  - first:
+      213: 815628758956057563
+    second: Gardeneer font atlas_52
+  - first:
+      213: 3766805000979930479
+    second: Gardeneer font atlas_53
+  - first:
+      213: 2089089617173315447
+    second: Gardeneer font atlas_54
+  - first:
+      213: -6177309039827173852
+    second: Gardeneer font atlas_55
+  - first:
+      213: -6065566717994556743
+    second: Gardeneer font atlas_56
+  - first:
+      213: -7425153923421360071
+    second: Gardeneer font atlas_57
+  - first:
+      213: 7626050457981912609
+    second: Gardeneer font atlas_58
+  - first:
+      213: -1780211415990408378
+    second: Gardeneer font atlas_59
+  - first:
+      213: 5175835364122454703
+    second: Gardeneer font atlas_60
+  - first:
+      213: 298038265899330423
+    second: Gardeneer font atlas_61
+  - first:
+      213: -5217243353797234730
+    second: Gardeneer font atlas_62
+  - first:
+      213: -8225931834391930224
+    second: Gardeneer font atlas_63
+  - first:
+      213: 3635681210967993092
+    second: Gardeneer font atlas_64
+  - first:
+      213: -1497927610866776450
+    second: Gardeneer font atlas_65
+  - first:
+      213: 6108281984859119213
+    second: Gardeneer font atlas_66
+  - first:
+      213: -715862538311760942
+    second: Gardeneer font atlas_67
+  - first:
+      213: 9048813364199319770
+    second: Gardeneer font atlas_68
+  - first:
+      213: -7322649056031990613
+    second: Gardeneer font atlas_69
+  - first:
+      213: -6695330336132059699
+    second: Gardeneer font atlas_70
+  - first:
+      213: -2520263904274925898
+    second: Gardeneer font atlas_71
+  - first:
+      213: 1113733598935828124
+    second: Gardeneer font atlas_72
+  - first:
+      213: -5120244400428489985
+    second: Gardeneer font atlas_73
+  - first:
+      213: 5072962585862564860
+    second: Gardeneer font atlas_74
+  - first:
+      213: 6868917562585979031
+    second: Gardeneer font atlas_75
+  - first:
+      213: 1072969799661811835
+    second: Gardeneer font atlas_76
+  - first:
+      213: 5941825161341826136
+    second: Gardeneer font atlas_77
+  - first:
+      213: 6044042882935187556
+    second: Gardeneer font atlas_78
+  - first:
+      213: -7069734031652565463
+    second: Gardeneer font atlas_79
+  - first:
+      213: -6402486152699813368
+    second: Gardeneer font atlas_80
+  - first:
+      213: -5506678600532870525
+    second: Gardeneer font atlas_81
+  - first:
+      213: 2779452043188855643
+    second: Gardeneer font atlas_82
+  - first:
+      213: 7908780886245850615
+    second: Gardeneer font atlas_83
+  - first:
+      213: -4895060015331484817
+    second: Gardeneer font atlas_84
+  - first:
+      213: -8564144260982087265
+    second: Gardeneer font atlas_85
+  - first:
+      213: -9151629633257098053
+    second: Gardeneer font atlas_86
+  - first:
+      213: 3935565552322033833
+    second: Gardeneer font atlas_87
+  - first:
+      213: 9210934726569963924
+    second: Gardeneer font atlas_88
+  - first:
+      213: -3918653364674640747
+    second: Gardeneer font atlas_89
+  - first:
+      213: 1794643317902804548
+    second: Gardeneer font atlas_90
+  - first:
+      213: -3411071285398626281
+    second: Gardeneer font atlas_91
+  - first:
+      213: 488189443115945025
+    second: Gardeneer font atlas_92
+  - first:
+      213: -1111640361658406361
+    second: Gardeneer font atlas_93
+  - first:
+      213: -7264684457098590202
+    second: Gardeneer font atlas_94
+  - first:
+      213: 5555590426842002069
+    second: Gardeneer font atlas_95
+  - first:
+      213: 442877964826011355
+    second: Gardeneer font atlas_96
+  - first:
+      213: -4606433491380469254
+    second: Gardeneer font atlas_97
+  - first:
+      213: 5917962984082150956
+    second: Gardeneer font atlas_98
+  - first:
+      213: 8564301927760485030
+    second: Gardeneer font atlas_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gardeneer font atlas_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 899
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188cc46017e4d1600800000000000000
+      internalID: 440594585896142977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 899
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5864fbe6655ad0e50800000000000000
+      internalID: 6777254804906264197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 899
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf006c7d7087d120800000000000000
+      internalID: 2438558999690350519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 995
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da072d15ee588a1f0800000000000000
+      internalID: -1033428855860072275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 899
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed0266ca31bd0d40800000000000000
+      internalID: 5552288781612223970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 787
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83d8227d0cc513f0800000000000000
+      internalID: -930613389860220022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 787
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ceb0e6330c9da60800000000000000
+      internalID: 7699396365088713788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 787
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f2d6668e9b3670800000000000000
+      internalID: 8519577420189332385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 787
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3cdc7ad1a7f0b50800000000000000
+      internalID: 6561597449890022319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 779
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fef133b35c8fcbf0800000000000000
+      internalID: -301868358893961486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 675
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d8e9746486dc10800000000000000
+      internalID: 2077993845154961184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 675
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088193f5f9cab1610800000000000000
+      internalID: 1593056693702957184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 675
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e7f80c68a56b30800000000000000
+      internalID: 4280012202845921322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 675
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619f20329eb881790800000000000000
+      internalID: -7559138141110339306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 675
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee51e13628ddaf40800000000000000
+      internalID: 5741482758524460782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 563
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc59eeed0060fa0800000000000000
+      internalID: -5834975309726363769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 563
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21086ba5b4a8570a0800000000000000
+      internalID: -6884444399116845038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 563
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022fc896e979972c0800000000000000
+      internalID: -4433345651538071008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 563
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f696fb8f6594b8750800000000000000
+      internalID: 6308216340951820655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 643
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b69f52b9f8878f70800000000000000
+      internalID: 9189464170693629617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 611
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d497ec1e13519b40800000000000000
+      internalID: 5445224813266703568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 563
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d61381adb301350800000000000000
+      internalID: 5985349712670190950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 451
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe08451b7107af10800000000000000
+      internalID: 2280793364436094650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 451
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b459c50cf53c5e20800000000000000
+      internalID: 3340604380147176633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 451
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ff9e40d1e90df0800000000000000
+      internalID: -213391222534836175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 451
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f1da63159dca640800000000000000
+      internalID: 5092684221482082080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 507
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf808ab0f72be6aa0800000000000000
+      internalID: -6165794581097477893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 475
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc956a336a07810800000000000000
+      internalID: 1761090195066309603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 339
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4644da0aeba3730800000000000000
+      internalID: 3979702818046239915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 339
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073729100ec3ed700800000000000000
+      internalID: 566957535891977072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 339
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2800c57dda995a8b0800000000000000
+      internalID: -5141534427652030334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 435
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942db461666169360800000000000000
+      internalID: 7175947683978007113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 435
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525e7653537cf3450800000000000000
+      internalID: 6070789854061913381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 419
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a5f672aea6ed6f0800000000000000
+      internalID: -657970941633013089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 395
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbebdff9afc4e6900800000000000000
+      internalID: 679565233089265343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 395
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e562f1f613b3440800000000000000
+      internalID: 4916577771538767432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_36
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 403
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe343c3943db000800000000000000
+      internalID: 53256579839160305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 339
+        width: 18
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a6576a67464780800000000000000
+      internalID: -8699187107893696397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 395
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f0bfc0587e66250800000000000000
+      internalID: 5937687717369024339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 395
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99489c2bead315fc0800000000000000
+      internalID: -3507954814211750759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 395
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ca15ef0bd62640800000000000000
+      internalID: 5054968493084690782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 379
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95afd53b93e11f400800000000000000
+      internalID: 356099078710229593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a5e6c2a582ee880800000000000000
+      internalID: -8579875872336618973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 227
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d4c46bc8a0dad80800000000000000
+      internalID: -8237916543920616140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3cd6bb74402f250800000000000000
+      internalID: 5976844361607791559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 323
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09edcebb0211c52d0800000000000000
+      internalID: -3288734795597816176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 323
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a601eb529a8d180800000000000000
+      internalID: -9090329868279715179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_47
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 323
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f24fad2d5bfe5d0800000000000000
+      internalID: -3031004106975858892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 299
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18505669907bddc0800000000000000
+      internalID: -3613170471885842401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 299
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a22813a89449b70800000000000000
+      internalID: 8904823221103241822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_50
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 299
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b90a82f75cfdab0800000000000000
+      internalID: -4981045512915346658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_51
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 283
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f962e2e7db87dc00800000000000000
+      internalID: 925362007788644851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_52
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 283
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd32b2ee802b15b00800000000000000
+      internalID: 815628758956057563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_53
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 227
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dd295e031664430800000000000000
+      internalID: 3766805000979930479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 227
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f729730ffedfc10800000000000000
+      internalID: 2089089617173315447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_55
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 227
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eba45382ac54aa0800000000000000
+      internalID: -6177309039827173852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_56
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 227
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a08ce437c2dba0800000000000000
+      internalID: -6065566717994556743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_57
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 283
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9303fd7c8dd84f890800000000000000
+      internalID: -7425153923421360071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_58
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 267
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126873bac7c25d960800000000000000
+      internalID: 7626050457981912609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bebcc262b6b47e0800000000000000
+      internalID: -1780211415990408378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 115
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6c6647d244d740800000000000000
+      internalID: 5175835364122454703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 115
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b27684938d22400800000000000000
+      internalID: 298038265899330423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 115
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfe526dfc0a897b0800000000000000
+      internalID: -5217243353797234730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_63
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 115
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09add78549e97dd80800000000000000
+      internalID: -8225931834391930224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_64
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 147
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b2f487cc8847230800000000000000
+      internalID: 3635681210967993092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_65
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 115
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76490736ca463be0800000000000000
+      internalID: -1497927610866776450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_66
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 211
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e12772a1af4c450800000000000000
+      internalID: 6108281984859119213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_67
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 211
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d30bef60deb016f0800000000000000
+      internalID: -715862538311760942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_68
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 211
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad868e3efc7d39d70800000000000000
+      internalID: 9048813364199319770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_69
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 187
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac1d580b79b06a90800000000000000
+      internalID: -7322649056031990613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_70
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 179
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcda3fc58886513a0800000000000000
+      internalID: -6695330336132059699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_71
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 179
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6347df459360dd0800000000000000
+      internalID: -2520263904274925898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_72
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 179
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96ccf2bec6c47f00800000000000000
+      internalID: 1113733598935828124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_73
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 211
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e64598dc31f8b0800000000000000
+      internalID: -5120244400428489985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_74
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 115
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb6f291898c66640800000000000000
+      internalID: 5072962585862564860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 115
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798116d412c435f50800000000000000
+      internalID: 6868917562585979031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_76
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 115
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7870931954f3ee00800000000000000
+      internalID: 1072969799661811835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_77
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 99
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854f14bc08a957250800000000000000
+      internalID: 5941825161341826136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_78
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 99
+        width: 34
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4686494baf0c0e350800000000000000
+      internalID: 6044042882935187556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_79
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 75
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ecbd2fa5243ed90800000000000000
+      internalID: -7069734031652565463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_80
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 107
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80268f414ccc527a0800000000000000
+      internalID: -6402486152699813368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_81
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 83
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a3efa0df85493b0800000000000000
+      internalID: -5506678600532870525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_82
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 83
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53618838e8929620800000000000000
+      internalID: 2779452043188855643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_83
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 83
+        width: 26
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd35134052a1cd60800000000000000
+      internalID: 7908780886245850615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_84
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 107
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd2f7e9d0411cb0800000000000000
+      internalID: -4895060015331484817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9166fe5b2c062980800000000000000
+      internalID: -8564144260982087265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b5c10651eef080800000000000000
+      internalID: -9151629633257098053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a83b60b400fd9630800000000000000
+      internalID: 3935565552322033833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_88
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491338a0550d3df70800000000000000
+      internalID: 9210934726569963924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_89
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594cda8d6852e99c0800000000000000
+      internalID: -3918653364674640747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4460026d69ad7e810800000000000000
+      internalID: 1794643317902804548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710a7421db079a0d0800000000000000
+      internalID: -3411071285398626281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_92
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c850446b566c600800000000000000
+      internalID: 488189443115945025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_93
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a2d551bf8a290f0800000000000000
+      internalID: -1111640361658406361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_94
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6084659e9f7ae2b90800000000000000
+      internalID: -7264684457098590202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_95
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 75
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927a75fe0c691d40800000000000000
+      internalID: 5555590426842002069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_96
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 3
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd66d4c992b652600800000000000000
+      internalID: 442877964826011355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_97
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 3
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af10ec04529a210c0800000000000000
+      internalID: -4606433491380469254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_98
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269024baf3d02250800000000000000
+      internalID: 5917962984082150956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gardeneer font atlas_99
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5b594a338ad670800000000000000
+      internalID: 8564301927760485030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gardeneer font atlas_0: 440594585896142977
+      Gardeneer font atlas_1: 6777254804906264197
+      Gardeneer font atlas_10: 2077993845154961184
+      Gardeneer font atlas_11: 1593056693702957184
+      Gardeneer font atlas_12: 4280012202845921322
+      Gardeneer font atlas_13: -7559138141110339306
+      Gardeneer font atlas_14: 5741482758524460782
+      Gardeneer font atlas_15: -5834975309726363769
+      Gardeneer font atlas_16: -6884444399116845038
+      Gardeneer font atlas_17: -4433345651538071008
+      Gardeneer font atlas_18: 6308216340951820655
+      Gardeneer font atlas_19: 9189464170693629617
+      Gardeneer font atlas_2: 2438558999690350519
+      Gardeneer font atlas_20: 5445224813266703568
+      Gardeneer font atlas_21: 5985349712670190950
+      Gardeneer font atlas_22: 2280793364436094650
+      Gardeneer font atlas_23: 3340604380147176633
+      Gardeneer font atlas_24: -213391222534836175
+      Gardeneer font atlas_25: 5092684221482082080
+      Gardeneer font atlas_26: -6165794581097477893
+      Gardeneer font atlas_27: 1761090195066309603
+      Gardeneer font atlas_28: 3979702818046239915
+      Gardeneer font atlas_29: 566957535891977072
+      Gardeneer font atlas_3: -1033428855860072275
+      Gardeneer font atlas_30: -5141534427652030334
+      Gardeneer font atlas_31: 7175947683978007113
+      Gardeneer font atlas_32: 6070789854061913381
+      Gardeneer font atlas_33: -657970941633013089
+      Gardeneer font atlas_34: 679565233089265343
+      Gardeneer font atlas_35: 4916577771538767432
+      Gardeneer font atlas_36: 53256579839160305
+      Gardeneer font atlas_37: -8699187107893696397
+      Gardeneer font atlas_38: 5937687717369024339
+      Gardeneer font atlas_39: -3507954814211750759
+      Gardeneer font atlas_4: 5552288781612223970
+      Gardeneer font atlas_40: 5054968493084690782
+      Gardeneer font atlas_41: 356099078710229593
+      Gardeneer font atlas_42: -8579875872336618973
+      Gardeneer font atlas_43: -8237916543920616140
+      Gardeneer font atlas_44: 5976844361607791559
+      Gardeneer font atlas_45: -3288734795597816176
+      Gardeneer font atlas_46: -9090329868279715179
+      Gardeneer font atlas_47: -3031004106975858892
+      Gardeneer font atlas_48: -3613170471885842401
+      Gardeneer font atlas_49: 8904823221103241822
+      Gardeneer font atlas_5: -930613389860220022
+      Gardeneer font atlas_50: -4981045512915346658
+      Gardeneer font atlas_51: 925362007788644851
+      Gardeneer font atlas_52: 815628758956057563
+      Gardeneer font atlas_53: 3766805000979930479
+      Gardeneer font atlas_54: 2089089617173315447
+      Gardeneer font atlas_55: -6177309039827173852
+      Gardeneer font atlas_56: -6065566717994556743
+      Gardeneer font atlas_57: -7425153923421360071
+      Gardeneer font atlas_58: 7626050457981912609
+      Gardeneer font atlas_59: -1780211415990408378
+      Gardeneer font atlas_6: 7699396365088713788
+      Gardeneer font atlas_60: 5175835364122454703
+      Gardeneer font atlas_61: 298038265899330423
+      Gardeneer font atlas_62: -5217243353797234730
+      Gardeneer font atlas_63: -8225931834391930224
+      Gardeneer font atlas_64: 3635681210967993092
+      Gardeneer font atlas_65: -1497927610866776450
+      Gardeneer font atlas_66: 6108281984859119213
+      Gardeneer font atlas_67: -715862538311760942
+      Gardeneer font atlas_68: 9048813364199319770
+      Gardeneer font atlas_69: -7322649056031990613
+      Gardeneer font atlas_7: 8519577420189332385
+      Gardeneer font atlas_70: -6695330336132059699
+      Gardeneer font atlas_71: -2520263904274925898
+      Gardeneer font atlas_72: 1113733598935828124
+      Gardeneer font atlas_73: -5120244400428489985
+      Gardeneer font atlas_74: 5072962585862564860
+      Gardeneer font atlas_75: 6868917562585979031
+      Gardeneer font atlas_76: 1072969799661811835
+      Gardeneer font atlas_77: 5941825161341826136
+      Gardeneer font atlas_78: 6044042882935187556
+      Gardeneer font atlas_79: -7069734031652565463
+      Gardeneer font atlas_8: 6561597449890022319
+      Gardeneer font atlas_80: -6402486152699813368
+      Gardeneer font atlas_81: -5506678600532870525
+      Gardeneer font atlas_82: 2779452043188855643
+      Gardeneer font atlas_83: 7908780886245850615
+      Gardeneer font atlas_84: -4895060015331484817
+      Gardeneer font atlas_85: -8564144260982087265
+      Gardeneer font atlas_86: -9151629633257098053
+      Gardeneer font atlas_87: 3935565552322033833
+      Gardeneer font atlas_88: 9210934726569963924
+      Gardeneer font atlas_89: -3918653364674640747
+      Gardeneer font atlas_9: -301868358893961486
+      Gardeneer font atlas_90: 1794643317902804548
+      Gardeneer font atlas_91: -3411071285398626281
+      Gardeneer font atlas_92: 488189443115945025
+      Gardeneer font atlas_93: -1111640361658406361
+      Gardeneer font atlas_94: -7264684457098590202
+      Gardeneer font atlas_95: 5555590426842002069
+      Gardeneer font atlas_96: 442877964826011355
+      Gardeneer font atlas_97: -4606433491380469254
+      Gardeneer font atlas_98: 5917962984082150956
+      Gardeneer font atlas_99: 8564301927760485030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
