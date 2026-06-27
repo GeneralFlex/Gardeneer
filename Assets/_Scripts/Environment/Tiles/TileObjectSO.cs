@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public enum TileObjectTag
 {
-    None,
+    Empty,
     Soil,
     RichSoil,
     Crop,

@@ -16,7 +16,7 @@ public class TileInfo {
 
     public bool CanPlace(TileObjectSO objectToPlace)
     {
-        if (tileObjects.Count == 0 && objectToPlace.requiresTags.Contains(TileObjectTag.None)) return true;
+        if (tileObjects.Count == 0 && objectToPlace.requiresTags.Contains(TileObjectTag.Empty)) return true;
 
         bool hasRequiredTag = false;
         List<TileObjectTag> requiredTagsLeft = new List<TileObjectTag>(objectToPlace.requiresTags);

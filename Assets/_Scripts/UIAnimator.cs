@@ -116,7 +116,7 @@ public class UIAnimator : MonoBehaviour, IPointerEnterHandler, IPointerExitHandl
         entry.active = true;
         foreach (GameObject go in entry.objects)
         {
-            if (go != null)
+            if (go != null && entry.original.ContainsKey(go))
             {
                 RectTransform rect = go.GetComponent<RectTransform>(); 
                 rect.DOKill();
@@ -131,7 +131,7 @@ public class UIAnimator : MonoBehaviour, IPointerEnterHandler, IPointerExitHandl
     {
         foreach (GameObject go in entry.objects)
         {
-            if (go != null)
+            if (go != null && entry.original.ContainsKey(go))
             {
                 RectTransform rect = go.GetComponent<RectTransform>();
                 rect.DOKill();

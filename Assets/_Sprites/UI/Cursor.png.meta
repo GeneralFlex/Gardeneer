@@ -99,7 +99,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -128,7 +128,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -175,7 +175,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cursor_0
+      name: highlight_square
       rect:
         serializedVersion: 2
         x: 0
@@ -184,7 +184,7 @@ TextureImporter:
         height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 106, y: 106, z: 109, w: 101}
       customData: 
       outline: []
       physicsShape: []
@@ -197,7 +197,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_2
+      name: move
       rect:
         serializedVersion: 2
         x: 303
@@ -219,7 +219,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_3
+      name: sickle
       rect:
         serializedVersion: 2
         x: 591
@@ -241,7 +241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_6
+      name: bar
       rect:
         serializedVersion: 2
         x: 351
@@ -263,7 +263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_7
+      name: point
       rect:
         serializedVersion: 2
         x: 527
@@ -285,7 +285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_8
+      name: shovel
       rect:
         serializedVersion: 2
         x: 591
@@ -307,7 +307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_9
+      name: hand
       rect:
         serializedVersion: 2
         x: 15
@@ -329,7 +329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_10
+      name: hand_grab
       rect:
         serializedVersion: 2
         x: 175
@@ -351,11 +351,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_11
+      name: cog
       rect:
         serializedVersion: 2
         x: 367
-        y: 239
+        y: 238
         width: 178
         height: 194
       alignment: 0
@@ -373,11 +373,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_12
+      name: axe
       rect:
         serializedVersion: 2
         x: 607
-        y: 175
+        y: 177
         width: 130
         height: 178
       alignment: 0
@@ -395,11 +395,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_13
+      name: hand_click
       rect:
         serializedVersion: 2
         x: 15
-        y: 127
+        y: 128
         width: 146
         height: 162
       alignment: 0
@@ -417,10 +417,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_14
+      name: dot_big
       rect:
         serializedVersion: 2
-        x: 175
+        x: 176
         y: 223
         width: 66
         height: 82
@@ -439,7 +439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_15
+      name: cross_big
       rect:
         serializedVersion: 2
         x: 271
@@ -461,10 +461,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_16
+      name: arrow_left
       rect:
         serializedVersion: 2
-        x: 383
+        x: 382
         y: 127
         width: 98
         height: 98
@@ -483,10 +483,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_17
+      name: arrow_right
       rect:
         serializedVersion: 2
-        x: 495
+        x: 496
         y: 127
         width: 98
         height: 98
@@ -505,7 +505,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_18
+      name: dot_small
       rect:
         serializedVersion: 2
         x: 191
@@ -527,7 +527,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_19
+      name: cross_small
       rect:
         serializedVersion: 2
         x: 287
@@ -549,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_20
+      name: trash
       rect:
         serializedVersion: 2
         x: 623
@@ -571,7 +571,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_21
+      name: arrow_big
       rect:
         serializedVersion: 2
         x: 15
@@ -593,11 +593,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_22
+      name: arrow_small
       rect:
         serializedVersion: 2
         x: 143
-        y: 0
+        y: 1
         width: 82
         height: 97
       alignment: 0
@@ -615,7 +615,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_23
+      name: cross
       rect:
         serializedVersion: 2
         x: 255
@@ -637,7 +637,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_24
+      name: arrow_up
       rect:
         serializedVersion: 2
         x: 399
@@ -659,7 +659,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cursor_25
+      name: arrow_down
       rect:
         serializedVersion: 2
         x: 495
@@ -694,32 +694,32 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cursor_0: -4750761433519615375
       Cursor_1: -3340349168363038409
-      Cursor_10: 7083940354380497957
-      Cursor_11: -4682245240618478800
-      Cursor_12: 2820687054698515202
-      Cursor_13: -4740768243567378543
-      Cursor_14: -3452304322062737278
-      Cursor_15: -1524976939683410580
-      Cursor_16: -5221398421663611057
-      Cursor_17: 8590093300548147882
-      Cursor_18: -6224498014127500261
-      Cursor_19: -5124354140470915447
-      Cursor_2: -8894989074114120652
-      Cursor_20: -1476201901094962867
-      Cursor_21: -4982539405057415460
-      Cursor_22: -5991710181145259392
-      Cursor_23: 361829352238303729
-      Cursor_24: 527255687170592856
-      Cursor_25: -8001965534370106995
-      Cursor_3: 8084253176091754095
       Cursor_4: -3647630677443473183
       Cursor_5: 2926769648525297287
-      Cursor_6: -7967919159556622880
-      Cursor_7: 1347301497552378782
-      Cursor_8: 7577801734594071765
-      Cursor_9: -8419580265784979433
+      arrow_big: -4982539405057415460
+      arrow_down: -8001965534370106995
+      arrow_left: -5221398421663611057
+      arrow_right: 8590093300548147882
+      arrow_small: -5991710181145259392
+      arrow_up: 527255687170592856
+      axe: 2820687054698515202
+      bar: -7967919159556622880
+      cog: -4682245240618478800
+      cross: 361829352238303729
+      cross_big: -1524976939683410580
+      cross_small: -5124354140470915447
+      dot_big: -3452304322062737278
+      dot_small: -6224498014127500261
+      hand: -8419580265784979433
+      hand_click: -4740768243567378543
+      hand_grab: 7083940354380497957
+      highlight_square: -4750761433519615375
+      move: -8894989074114120652
+      point: 1347301497552378782
+      shovel: 7577801734594071765
+      sickle: 8084253176091754095
+      trash: -1476201901094962867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

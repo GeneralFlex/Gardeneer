@@ -47,13 +47,19 @@ public class TileManager : MonoBehaviour
         return PlaceTileObject(GetTile(pos), tileObjectSO);
     }
 
-    public bool PlaceTileObject(TileInfo tile, TileObjectSO tileObjectSO)
+    public bool CanPlaceTileObject(Vector2Int pos, TileObjectSO tileObjectSO)
     {
-        if (!tile.CanPlace(tileObjectSO))
+        if (!GetTile(pos).CanPlace(tileObjectSO))
         {
-            Debug.Log("failed to place");
             return false;
         }
+        return true;
+    }
+
+    public bool PlaceTileObject(TileInfo tile, TileObjectSO tileObjectSO)
+    {
+        if (!tile.CanPlace(tileObjectSO))   
+            return false;
 
         TileObject tileObject = Instantiate(tileObjectSO.prefab).GetComponent<TileObject>();
         tileObject.SO = tileObjectSO;

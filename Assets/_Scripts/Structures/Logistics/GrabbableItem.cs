@@ -22,6 +22,7 @@ public class GrabbableItem : MonoBehaviour
         if (isDragged && mouse != null)
         {
             mouse.transform.position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            CursorManager.Instance.AddCursorPriority("handGrab", 15);
         }
         if (target != null)
         {
@@ -67,5 +68,10 @@ public class GrabbableItem : MonoBehaviour
             Destroy(mouse.gameObject);
         }
         Release();
+    }
+
+    private void OnMouseOver()
+    {
+        CursorManager.Instance.AddCursorPriority("hand", 14);
     }
 }

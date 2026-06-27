@@ -296,6 +296,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8078116565208079520}
   - component: {fileID: 3361810217505799918}
+  - component: {fileID: 1945206419845906671}
   m_Layer: 0
   m_Name: Mechanical arm
   m_TagString: Untagged
@@ -341,10 +342,23 @@ MonoBehaviour:
   grabber1: {fileID: 8318429863217853975}
   grabber2: {fileID: 54006464690499837}
   minArmLength: 1
-  maxArmLength: 5
+  maxArmLength: 2
   minSpeed: 10
   maxSpeed: 15
   smoothDragTime: 0.1
+--- !u!114 &1945206419845906671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2728349329087541486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b01dfa95e15b054687b3bb17ec7dddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Structure
+  SO: {fileID: 0}
 --- !u!1 &3256749030932415741
 GameObject:
   m_ObjectHideFlags: 0

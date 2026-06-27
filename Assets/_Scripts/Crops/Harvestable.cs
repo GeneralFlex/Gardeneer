@@ -34,8 +34,14 @@ public class Harvestable : MonoBehaviour
         wiggling = false;
     }
 
+    private void OnMouseOver()
+    {
+        CursorManager.Instance.AddCursorPriority("sickle", 14);
+    }
+
     private void OnMouseDrag()
     {
+        CursorManager.Instance.AddCursorPriority("handGrab", 15);
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         transform.rotation = Quaternion.Euler(0, 0, Mathf.LerpAngle(-15, 15, Mathf.Clamp((transform.position.x - mousePosition.x)/2, -1, 1) + 0.5f));
 
