@@ -8,6 +8,7 @@ public class BuildManager : MonoBehaviour
     public Color validColor;
     public Color invalidColor;
     private Color currentColor;
+    public MouseShaderController mouseShaderController;
 
     [Header("position")]
     private Vector2 mousePos;
@@ -33,6 +34,7 @@ public class BuildManager : MonoBehaviour
         {
             currentTileObjectSO = null;
             Destroy(ghost);
+            mouseShaderController.SetTargetRadius(0);
             return;
         }
 
@@ -58,6 +60,8 @@ public class BuildManager : MonoBehaviour
         }
         currentTileObjectSO = tileObjectSO;
         ghost = GenerateGhost(tileObjectSO);
+        mouseShaderController.SetTargetRadius(2);
+        SetGhostColor(validColor);
     }
 
     public GameObject GenerateGhost(TileObjectSO tileObjectSO)
@@ -70,9 +74,6 @@ public class BuildManager : MonoBehaviour
         {
             Destroy(script);
         }
-
-        SetGhostColor(validColor);
-
         return ghost;
     }
 

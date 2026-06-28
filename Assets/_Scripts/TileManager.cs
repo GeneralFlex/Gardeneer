@@ -44,12 +44,14 @@ public class TileManager : MonoBehaviour
 
     public bool PlaceTileObject(Vector2Int pos, TileObjectSO tileObjectSO)
     {
+        if (GetTile(pos) == null) 
+            return false;
         return PlaceTileObject(GetTile(pos), tileObjectSO);
     }
 
     public bool CanPlaceTileObject(Vector2Int pos, TileObjectSO tileObjectSO)
     {
-        if (!GetTile(pos).CanPlace(tileObjectSO))
+        if (GetTile(pos)==null||!GetTile(pos).CanPlace(tileObjectSO))
         {
             return false;
         }

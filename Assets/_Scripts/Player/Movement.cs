@@ -1,5 +1,8 @@
-using UnityEditor.ShaderGraph.Internal;
+using NUnit.Framework;
 using UnityEngine;
+using System.Collections.Generic;
+using Unity.VisualScripting;
+using UnityEngine.Rendering;
 
 public class Movement : MonoBehaviour
 {
@@ -20,28 +23,33 @@ public class Movement : MonoBehaviour
     public float maxZoom = 20f;
 
     private Vector2 movement;
+    private Vector3 mouseDragPos;
 
+    [Header("Smoothed velocities")]
     private Vector3 wsadSmoothVelocity;
     private Vector3 dragSmoothVelocity;
 
+    [Header("Velocity references")]
     private Vector3 wsadVelocityRef;
     private Vector3 dragVelocityRef;
 
+    [Header("Target velocities")]
     private Vector3 targetWsadVelocity;
     private Vector3 targetDragVelocity;
 
     private Vector3 currentVelocity;
 
+    [Header("Zoom")]
     private float targetZoom;
-
     private Vector3 zoomMouseScreenPos;
     private Vector3 beforeZoom;
     private Vector3 afterZoom;
-    private Vector3 mouseDragPos;
+    Vector3 offset;
 
     private void Start()
     {
         targetZoom = Camera.main.orthographicSize;
+        maxZoom = Mathf.Clamp(maxZoom, minZoom, (TileManager.Instance.bounds.size.x-2) / (2f * Camera.main.aspect));
     }
 
     void Update()
@@ -61,14 +69,14 @@ public class Movement : MonoBehaviour
         if (Mathf.Abs(Camera.main.orthographicSize - targetZoom) > 0.1f)
         {
             Camera.main.orthographicSize = Mathf.MoveTowards(Camera.main.orthographicSize, targetZoom, zoomSmoothTime * Time.deltaTime * Mathf.Abs(Camera.main.orthographicSize - targetZoom));
-            
+
             beforeZoom += currentVelocity * Time.deltaTime;
             afterZoom = Camera.main.ScreenToWorldPoint(zoomMouseScreenPos);
 
-            Vector3 offset = beforeZoom - afterZoom;
-            transform.position += offset;
-
+            offset = beforeZoom - afterZoom;
         }
+        else if (offset.magnitude != 0)
+            offset = Vector3.zero;
 
         if (Input.GetMouseButtonDown(2))
         {
@@ -115,6 +123,15 @@ public class Movement : MonoBehaviour
 
         currentVelocity = wsadSmoothVelocity + dragSmoothVelocity;
 
-        transform.position += currentVelocity * Time.deltaTime;
+        Vector3 targetCamPosition = transform.position + currentVelocity * Time.deltaTime;
+        TileManager tm = TileManager.Instance;
+
+        float halfHeight = Camera.main.orthographicSize;
+        float halfWidth = halfHeight * Camera.main.aspect;
+
+        targetCamPosition += offset;
+        targetCamPosition = new Vector3(Mathf.Clamp(targetCamPosition.x, tm.bounds.xMin+halfWidth+1, tm.bounds.xMax-halfWidth-1), Mathf.Clamp(targetCamPosition.y, tm.bounds.yMin+halfHeight+1, tm.bounds.yMax-halfHeight-1), 0);
+
+        transform.position = targetCamPosition;
     }
 }
