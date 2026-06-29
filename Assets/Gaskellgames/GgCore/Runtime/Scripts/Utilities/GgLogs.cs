@@ -74,7 +74,7 @@ namespace Gaskellgames
             
             string prefix = "[" + GetColoredMessage("Gaskellgames", new Color32(000, 179, 223, 255)) + "] ";
             object message = prefix + string.Format(format, args);
-            Debug.unityLogger.Log(unityLogType, message, context);
+            //Debug.unityLogger.Log(unityLogType, message, context);
         }
         
         /// <summary>

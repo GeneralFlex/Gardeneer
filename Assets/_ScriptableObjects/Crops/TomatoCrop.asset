@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: TomatoCrop
   m_EditorClassIdentifier: Assembly-CSharp::CropSO
   prefab: {fileID: 7873196494093266428, guid: eb9e01a701b7b284cac09bd6f7e66d4e, type: 3}
+  rotations:
+  - {fileID: 11400000}
+  size: {x: 1, y: 1}
   displayName: Tomato
   description: A plant that grows tomatoes
   requreAll: 0
+  interactionPriority: 10
   requiresTags: 01000000
   providesTags: 03000000
   forbiddenTags: 03000000

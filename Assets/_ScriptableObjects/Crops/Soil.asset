@@ -13,9 +13,13 @@ MonoBehaviour:
   m_Name: Soil
   m_EditorClassIdentifier: Assembly-CSharp::CropSO
   prefab: {fileID: 2497613811240783274, guid: f7874960815774440bb124514944607e, type: 3}
+  rotations:
+  - {fileID: 11400000}
+  size: {x: 1, y: 1}
   displayName: Soil
   description: Soil for plating
   requreAll: 0
+  interactionPriority: 5
   requiresTags: 00000000
   providesTags: 01000000
   forbiddenTags: 01000000

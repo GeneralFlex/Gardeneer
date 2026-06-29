@@ -28,10 +28,13 @@ public class GrabbableItem : MonoBehaviour
         {
             velocity = (target.position - transform.position) * 10f;
             transform.position = new Vector2(Mathf.Lerp(transform.position.x, target.position.x, Time.deltaTime * 10f), Mathf.Lerp(transform.position.y, target.position.y, Time.deltaTime * 10f* (1+Mathf.Pow(Vector2.Distance(target.position,transform.position),2))));
-        } else if(velocity.magnitude > 0.1f)
+            transform.position = new Vector3(transform.position.x, transform.position.y, Mathf.Round(transform.position.y) - 0.5f);
+        }
+        else if(velocity.magnitude > 0.1f)
         {
             velocity *= 0.95f;
             transform.position = new Vector2(transform.position.x + velocity.x * Time.deltaTime, transform.position.y + velocity.y * Time.deltaTime);
+            transform.position = new Vector3(transform.position.x, transform.position.y, Mathf.Round(transform.position.y)-0.5f);
         }
         if (sprite != null && isDragged)
         {

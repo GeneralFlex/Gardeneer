@@ -43,6 +43,7 @@ public class MechanicalArm : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //target = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         moveArmToPos();
     }
 

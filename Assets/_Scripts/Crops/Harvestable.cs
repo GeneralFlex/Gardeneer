@@ -1,6 +1,5 @@
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
-using UnityEngine.U2D;
+using System.Collections.Generic;
 
 [RequireComponent(typeof(BoxCollider2D))]
 public class Harvestable : MonoBehaviour
@@ -57,6 +56,11 @@ public class Harvestable : MonoBehaviour
 
     public void Harvest()
     {
+        List<TileInfo> tiles = gameObject.GetComponent<TileObject>().tiles;
+        foreach (TileInfo tile in tiles)
+        {
+            tile.tileObjects.Remove(gameObject.GetComponent<TileObject>());
+        }
         Destroy(gameObject);
     }
 }

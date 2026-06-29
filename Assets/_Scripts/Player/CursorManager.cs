@@ -4,6 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening;
+using System.Collections;
 
 [System.Serializable]
 public class CursorEntry
@@ -22,8 +23,10 @@ public class CursorManager : MonoBehaviour
     [Header("Object references")]
     public GameObject cursor;
     public GameObject highlightSquarePrefab;
-    public GameObject highlightSquare;
+    public GameObject HLSquare;
 
+    private Canvas canvas;
+    private RectTransform cursorRect;
     private CursorEntry currentCursor;
 
     [Header("Lists and dicts")]
@@ -31,11 +34,16 @@ public class CursorManager : MonoBehaviour
     public Dictionary<string, CursorEntry> cursors = new Dictionary<string, CursorEntry>();
     public Dictionary<CursorEntry, int> cursorsByPriority = new Dictionary<CursorEntry, int>();
 
+    [Header("Misc")]
+    private Coroutine HLSquareCoroutine;
+    private Vector3 HLSquareVelocityRef;
+    private Vector2 offset;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
         Instance = this;
-        highlightSquare = Instantiate(highlightSquarePrefab);
+        HLSquare = Instantiate(highlightSquarePrefab);
         //highlightSquare.SetActive(false);
     }
 
@@ -48,33 +56,25 @@ public class CursorManager : MonoBehaviour
             cursorsByPriority.Add(entry, -1);
         }
 
+        canvas = cursor.transform.parent.GetComponent<Canvas>();
+        cursorRect = cursor.GetComponent<RectTransform>();
+
         SetCursor(cursors["arrowSmall"]);
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector2Int mousePosInt = Vector2Int.RoundToInt(Camera.main.ScreenToWorldPoint(Input.mousePosition));
-        //highlightSquare.transform.position = Vector2.Lerp(highlightSquare.transform.position, mousePosInt, Time.deltaTime * (1+Vector2.Distance(highlightSquare.transform.position, mousePosInt)));
-        highlightSquare.transform.DOMove(new Vector3(mousePosInt.x, mousePosInt.y, highlightSquare.transform.position.z), 0.1f).SetEase(Ease.OutQuad);
-
-        Canvas canvas = cursor.transform.parent.GetComponent<Canvas>();
-        RectTransform cursorRect = cursor.GetComponent<RectTransform>();
-
-        RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, Input.mousePosition, canvas.worldCamera, out Vector2 localPos);
-
-        if (!currentCursor.center)
-        {
-            localPos += new Vector2(currentCursor.size.x / 2, -currentCursor.size.y / 2);
-        }
-        cursorRect.localPosition = localPos;
-
         cursorsByPriority[cursors["arrowSmall"]] += 1;
         if (Input.GetMouseButton(0))
             cursorsByPriority[cursors["arrowSmallClicked"]]+=2;
 
         if (Input.GetMouseButton(2))
             cursorsByPriority[cursors["move"]] += 20;
+
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, Input.mousePosition, canvas.worldCamera, out Vector2 localPos);
+        cursorRect.localPosition = localPos+offset;
+
     }
     private void LateUpdate()
     {
@@ -88,6 +88,7 @@ public class CursorManager : MonoBehaviour
     void SetCursorByPriority()
     {
         CursorEntry highest = cursorsByPriority.OrderByDescending(x => x.Value).First().Key;
+
         if (highest != currentCursor)
         {
             SetCursor(highest);
@@ -98,8 +99,18 @@ public class CursorManager : MonoBehaviour
     {
         currentCursor = entry;
 
-        cursor.GetComponent<RectTransform>().sizeDelta = entry.size;
-        Image img =cursor.GetComponent<Image>();
+        Image img = cursor.GetComponent<Image>();
+        img.sprite = null;
+
+        cursorRect.sizeDelta = entry.size;
+        if (!entry.center)
+            offset = new Vector2(entry.size.x / 2, -entry.size.y / 2);
+        else
+            offset = Vector2.zero;
+
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, Input.mousePosition, canvas.worldCamera, out Vector2 localPos);
+        cursorRect.localPosition = localPos + offset;
+
         img.sprite = entry.sprite;
         img.color = entry.color;
     }
@@ -107,5 +118,33 @@ public class CursorManager : MonoBehaviour
     public void AddCursorPriority(string name, int priority)
     {
         cursorsByPriority[cursors[name]] += priority;
+    }
+
+    public void SetHSLsize(Vector2 size)
+    {
+        if(HLSquareCoroutine != null)
+            StopCoroutine(HLSquareCoroutine);
+        HLSquareCoroutine = StartCoroutine(SetHLSize(size));
+    }
+
+    private IEnumerator SetHLSize(Vector2 size)
+    {
+        size *= 2;
+        SpriteRenderer[] renderers = HLSquare.GetComponentsInChildren<SpriteRenderer>();
+        SpriteRenderer sr = renderers[0];
+        while(Vector2.Distance(sr.size, size) > 0.01f)
+        {
+            sr.size = Vector2.Lerp(sr.size, size, 1f - Mathf.Exp(-20 * Time.deltaTime));
+            foreach(SpriteRenderer renderer in renderers)
+            {
+                renderer.size = sr.size;
+            }
+            yield return null;
+        }
+    }
+
+    public void MoveHLSquare(Vector2 pos)
+    {
+        HLSquare.transform.position = Vector3.SmoothDamp(HLSquare.transform.position, new Vector3(pos.x, pos.y, HLSquare.transform.position.z), ref HLSquareVelocityRef, 0.05f);
     }
 }

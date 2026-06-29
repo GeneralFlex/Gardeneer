@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: MechanicalArm
   m_EditorClassIdentifier: Assembly-CSharp::StructureSO
   prefab: {fileID: 2728349329087541486, guid: 9c46c8904d0160548bebfcabec0638eb, type: 3}
+  size: {x: 1, y: 1}
   displayName: Mechanical Arm
   description: Arm that moves stuff
   requreAll: 0
+  interactionPriority: 0
   requiresTags: 00000000
   providesTags: 
   forbiddenTags: 

@@ -1,9 +1,10 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using System.Collections.Generic;
 
 public abstract class TileObject : MonoBehaviour
 {
-    public TileInfo tile;
+    public List<TileInfo> tiles = new List<TileInfo>();
     [HideInInspector]
     public TileObjectSO SO;
 }

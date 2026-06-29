@@ -1,8 +1,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using Unity.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
+using static UnityEditor.PlayerSettings;
 
 public class TileManager : MonoBehaviour
 {
@@ -20,13 +22,6 @@ public class TileManager : MonoBehaviour
         GenerateTiles();
     }
 
-    public TileInfo GetTile(Vector2Int pos)
-    {
-        tiles.TryGetValue(pos, out TileInfo tile);
-        return tile;
-    }
-
-    //[ContextMenu("Generate Tiles")]
     public void GenerateTiles()
     {
         tiles.Clear();
@@ -42,32 +37,102 @@ public class TileManager : MonoBehaviour
         }
     }
 
-    public bool PlaceTileObject(Vector2Int pos, TileObjectSO tileObjectSO)
+    // -------- HELPERS -------- 
+
+    public TileInfo GetTile(Vector2 mousePos)
     {
-        if (GetTile(pos) == null) 
-            return false;
-        return PlaceTileObject(GetTile(pos), tileObjectSO);
+        Vector2Int pos = Vector2Int.RoundToInt(mousePos);
+        tiles.TryGetValue(pos, out TileInfo tile);
+        return tile;
+    }
+
+    public TileInfo GetTile(Vector2Int pos)
+    {
+        tiles.TryGetValue(pos, out TileInfo tile);
+        return tile;
+    }
+
+    public List<TileObject> GetTileObjectByPriority(Vector2 pos)
+    {
+        TileInfo tile = GetTile(pos);
+
+        if (tile!=null)
+        {
+            return tile.GetTileObjectByPriority();
+        }
+        return null;
     }
 
     public bool CanPlaceTileObject(Vector2Int pos, TileObjectSO tileObjectSO)
     {
-        if (GetTile(pos)==null||!GetTile(pos).CanPlace(tileObjectSO))
+        Vector2[] tiles = new Vector2[tileObjectSO.size.x * tileObjectSO.size.y];
+
+        for (int x = 0; x < tileObjectSO.size.x; x++)
         {
-            return false;
+            for (int y = 0; y < tileObjectSO.size.y; y++)
+            {
+                Vector2Int partialObjectTilePos = new Vector2Int(x - (int)Mathf.Floor(tileObjectSO.size.x / 2), y - (int)Mathf.Floor(tileObjectSO.size.y / 2)) + pos;
+                if (GetTile(partialObjectTilePos) == null || !(GetTile(partialObjectTilePos).CanPlace(tileObjectSO)))
+                {
+                    return false;
+                }
+            }
         }
+
         return true;
+    }
+
+    // -------- PLACING -------- 
+
+    public bool PlaceTileObject(Vector2 mousePos, TileObjectSO tileObjectSO)
+    {
+        if (GetTile(Vector2Int.RoundToInt(mousePos)) == null)
+            return false;
+        return PlaceTileObject(GetTile((Vector2Int.RoundToInt(mousePos))), tileObjectSO);
     }
 
     public bool PlaceTileObject(TileInfo tile, TileObjectSO tileObjectSO)
     {
-        if (!tile.CanPlace(tileObjectSO))   
+        if (!CanPlaceTileObject(tile.position, tileObjectSO))
             return false;
 
         TileObject tileObject = Instantiate(tileObjectSO.prefab).GetComponent<TileObject>();
         tileObject.SO = tileObjectSO;
-        tileObject.tile = tile;
-        tileObject.transform.position = new Vector3(tile.position.x, tile.position.y, tile.position.y / 100f);
-        tile.tileObjects.Add(tileObject);
+        tileObject.transform.position = new Vector3(tile.position.x - (1 - (tileObjectSO.size.x % 2)) / 2f, tile.position.y - (1 - (tileObjectSO.size.y % 2)) / 2f, tile.position.y+Mathf.Floor(tileObjectSO.size.y/2)-Mathf.Clamp(tileObjectSO.interactionPriority/100f,0,0.5f));
+
+        for (int x = 0; x < tileObjectSO.size.x; x++)
+        {
+            for (int y = 0; y < tileObjectSO.size.y; y++)
+            {
+                Vector2Int partialObjectTilePos = new Vector2Int(x - (int)Mathf.Floor(tileObjectSO.size.x / 2), y - (int)Mathf.Floor(tileObjectSO.size.y / 2)) + tile.position;
+
+                tileObject.tiles.Add(GetTile(partialObjectTilePos));
+                GetTile(partialObjectTilePos).tileObjects.Add(tileObject);
+            }
+        }
+        return true;
+    }
+
+    // -------- REMOVING -------- 
+    public bool RemoveTileObject(Vector2 mousePos)
+    {
+        if (GetTile(Vector2Int.RoundToInt(mousePos)) == null)
+            return false;
+
+        TileObject tileObject = GetTile(Vector2Int.RoundToInt(mousePos)).GetTileObjectByPriority().First();
+        return RemoveTileObject(tileObject);
+    }
+
+    public bool RemoveTileObject(TileObject tileObject)
+    {
+        if (tileObject == null) return false;
+
+        List<TileInfo> tileInfos = tileObject.tiles;
+        foreach(TileInfo tileInfo in tileInfos)
+        {
+            tileInfo.tileObjects.Remove(tileObject);
+        }
+        Destroy(tileObject.gameObject);
         return true;
     }
 

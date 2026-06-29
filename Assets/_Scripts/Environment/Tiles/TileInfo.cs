@@ -1,6 +1,7 @@
 using Gaskellgames;
 using UnityEngine;
 using System.Collections.Generic;
+using System.Linq;
 
 public class TileInfo {
 
@@ -36,5 +37,16 @@ public class TileInfo {
         if (requiredTagsLeft.Count > 0 && objectToPlace.requreAll)
             return false;
         return hasRequiredTag;
+    }
+
+    public List<TileObject> GetTileObjectByPriority()
+    {
+        List<TileObject> sorted = tileObjects.OrderByDescending(r => r.SO.interactionPriority).ToList();
+        return sorted;
+    }
+
+    public TileObject GetTileObject(TileObjectSO tileObjectSO)
+    {
+        return tileObjects.Where(r => r.SO == tileObjectSO).FirstOrDefault();
     }
 }

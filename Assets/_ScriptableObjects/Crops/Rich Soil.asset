@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: Rich Soil
   m_EditorClassIdentifier: Assembly-CSharp::CropSO
   prefab: {fileID: 6256411865229934438, guid: 51034d0d86a4e2e49990ef059cab5ce8, type: 3}
+  rotations:
+  - {fileID: 11400000}
+  size: {x: 1, y: 1}
   displayName: Rich Soil
   description: Soil for plating
   requreAll: 0
+  interactionPriority: 7
   requiresTags: 01000000
   providesTags: 0100000002000000
-  forbiddenTags: 0200000003000000
+  forbiddenTags: 02000000
   growthTime: 10
