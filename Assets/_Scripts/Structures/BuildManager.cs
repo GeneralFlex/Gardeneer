@@ -126,10 +126,10 @@ public class BuildManager : MonoBehaviour
 
     public void Rotate()
     {
-        int rotationIndex = currentTileObjectSO.rotations.FindIndex(x => x == currentTileObjectSO);
-            if (rotationIndex >= currentTileObjectSO.rotations.Count - 1)
-                rotationIndex = -1;
-            StartBuilding(currentTileObjectSO.rotations[rotationIndex+1]);
+        if(Input.GetKey(KeyCode.LeftShift))
+            StartBuilding(currentTileObjectSO.previousRotation);
+        else
+            StartBuilding(currentTileObjectSO.nextRotation);
     }
 
     public void QuickSelect()

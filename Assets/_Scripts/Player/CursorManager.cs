@@ -28,8 +28,10 @@ public class CursorManager : MonoBehaviour
     private Canvas canvas;
     private RectTransform cursorRect;
     private CursorEntry currentCursor;
+    private CursorEntry mainCursor;
 
     [Header("Lists and dicts")]
+    public String mainCursorName;
     public List<CursorEntry> cursorSprites = new List<CursorEntry>();
     public Dictionary<string, CursorEntry> cursors = new Dictionary<string, CursorEntry>();
     public Dictionary<CursorEntry, int> cursorsByPriority = new Dictionary<CursorEntry, int>();
@@ -59,13 +61,14 @@ public class CursorManager : MonoBehaviour
         canvas = cursor.transform.parent.GetComponent<Canvas>();
         cursorRect = cursor.GetComponent<RectTransform>();
 
-        SetCursor(cursors["arrowSmall"]);
+        mainCursor = cursors[mainCursorName];
+        SetCursor(mainCursor);
     }
 
     // Update is called once per frame
     void Update()
     {
-        cursorsByPriority[cursors["arrowSmall"]] += 1;
+        cursorsByPriority[mainCursor] += 1;
         if (Input.GetMouseButton(0))
             cursorsByPriority[cursors["arrowSmallClicked"]]+=2;
 
@@ -106,7 +109,7 @@ public class CursorManager : MonoBehaviour
         if (!entry.center)
             offset = new Vector2(entry.size.x / 2, -entry.size.y / 2);
         else
-            offset = Vector2.zero;
+            offset = new Vector2(mainCursor.size.x/2, -mainCursor.size.y/2);
 
         RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, Input.mousePosition, canvas.worldCamera, out Vector2 localPos);
         cursorRect.localPosition = localPos + offset;

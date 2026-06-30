@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: PlantBed 3
   m_EditorClassIdentifier: Assembly-CSharp::CropSO
   prefab: {fileID: 7341902710289298748, guid: 207864a219c0b8c48990bfb3f1f3ac11, type: 3}
-  rotations:
-  - {fileID: 11400000, guid: a537e9a447a099147b37b0074a925f30, type: 2}
-  - {fileID: 11400000}
+  previousRotation: {fileID: 11400000, guid: a537e9a447a099147b37b0074a925f30, type: 2}
+  nextRotation: {fileID: 11400000, guid: a537e9a447a099147b37b0074a925f30, type: 2}
   size: {x: 2, y: 3}
   displayName: Plant Bed
   description: Bed for planting

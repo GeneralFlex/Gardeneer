@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a322fb1f8ed2f349a2e10527458f331, type: 3}
+  m_Name: BeltDown
+  m_EditorClassIdentifier: Assembly-CSharp::StructureSO
+  prefab: {fileID: 8739825608617015412, guid: 95e713b791978654e88f8f317f7e5136, type: 3}
+  previousRotation: {fileID: 11400000, guid: d41a4fd052495de4cada73f5a4faee92, type: 2}
+  nextRotation: {fileID: 11400000, guid: f746859a8e8a51146936654831b6ae8b, type: 2}
+  size: {x: 1, y: 1}
+  displayName: Conveyor Belt
+  description: Belt that moves stuff
+  requreAll: 0
+  interactionPriority: 20
+  requiresTags: 00000000
+  providesTags: 04000000
+  forbiddenTags: 
+  cost: 0

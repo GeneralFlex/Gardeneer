@@ -62,6 +62,25 @@ public class TileManager : MonoBehaviour
         }
         return null;
     }
+    public TileObject GetTileObject(Vector2 pos, string displayName)
+    {
+        TileInfo tile = GetTile(pos);
+        if (tile != null)
+        {
+            return tile.tileObjects.Where(r => r.SO.displayName == displayName).FirstOrDefault();
+        }
+        return null;
+    }
+
+    public TileObject GetTileObject(Vector2 pos, TileObjectSO tileObjectSO)
+    {
+        TileInfo tile = GetTile(pos);
+        if (tile != null)
+        {
+            return tile.tileObjects.Where(r => r.SO == tileObjectSO).FirstOrDefault();
+        }
+        return null;
+    }
 
     public bool CanPlaceTileObject(Vector2Int pos, TileObjectSO tileObjectSO)
     {
