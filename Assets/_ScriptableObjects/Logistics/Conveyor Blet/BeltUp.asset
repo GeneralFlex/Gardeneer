@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a322fb1f8ed2f349a2e10527458f331, type: 3}
   m_Name: BeltUp
   m_EditorClassIdentifier: Assembly-CSharp::StructureSO
-  prefab: {fileID: 5339775566846929638, guid: 4f9dd744d84718243a9d82e7c0a0870e, type: 3}
+  prefab: {fileID: 7946521777484584614, guid: 4f9dd744d84718243a9d82e7c0a0870e, type: 3}
   previousRotation: {fileID: 11400000, guid: f746859a8e8a51146936654831b6ae8b, type: 2}
   nextRotation: {fileID: 11400000, guid: d41a4fd052495de4cada73f5a4faee92, type: 2}
   size: {x: 1, y: 1}

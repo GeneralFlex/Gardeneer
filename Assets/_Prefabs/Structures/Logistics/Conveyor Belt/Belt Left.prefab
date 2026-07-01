@@ -59,12 +59,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 611edc7c6a4d1484d92d0fc30debd07a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ConveyorBelt
-  uniqeGroupID: 1
+  groupIndex: 0
   direction: {x: -1, y: 0}
-  inputs: []
   output: {fileID: 0}
-  code: 0
-  spriteRenderer: {fileID: 8869260469799173538}
+  inputs: []
+  shapes:
+  - name: left
+    spriteSheet: {fileID: 2800000, guid: b5c9de3d33baf7f40b7b74306b746363, type: 3}
+    sprites:
+    - {fileID: -8132122841406165338, guid: b5c9de3d33baf7f40b7b74306b746363, type: 3}
+    - {fileID: 2211364181326638294, guid: b5c9de3d33baf7f40b7b74306b746363, type: 3}
+    - {fileID: 1038030584095179640, guid: b5c9de3d33baf7f40b7b74306b746363, type: 3}
+    - {fileID: -6081211544368751098, guid: b5c9de3d33baf7f40b7b74306b746363, type: 3}
+    inputs: []
+  - name: down
+    spriteSheet: {fileID: 2800000, guid: 7433c9f5873c0bc4e8e4991c04468afb, type: 3}
+    sprites:
+    - {fileID: -91080555182225597, guid: 7433c9f5873c0bc4e8e4991c04468afb, type: 3}
+    - {fileID: -4838864860171739764, guid: 7433c9f5873c0bc4e8e4991c04468afb, type: 3}
+    - {fileID: 1719120292661142972, guid: 7433c9f5873c0bc4e8e4991c04468afb, type: 3}
+    - {fileID: -2819388660391853120, guid: 7433c9f5873c0bc4e8e4991c04468afb, type: 3}
+    inputs:
+    - {x: 0, y: -1}
+  - name: up
+    spriteSheet: {fileID: 2800000, guid: 56f9fa0a95b92f34aae6b046b417b6f8, type: 3}
+    sprites:
+    - {fileID: 406085988799562454, guid: 56f9fa0a95b92f34aae6b046b417b6f8, type: 3}
+    - {fileID: -3380994204828559737, guid: 56f9fa0a95b92f34aae6b046b417b6f8, type: 3}
+    - {fileID: -3912086876804231888, guid: 56f9fa0a95b92f34aae6b046b417b6f8, type: 3}
+    - {fileID: -3994408718365972818, guid: 56f9fa0a95b92f34aae6b046b417b6f8, type: 3}
+    inputs:
+    - {x: 0, y: 1}
+  conveyorSpriteRenderer: {fileID: 8869260469799173538}
 --- !u!1 &7362555280542848043
 GameObject:
   m_ObjectHideFlags: 0
