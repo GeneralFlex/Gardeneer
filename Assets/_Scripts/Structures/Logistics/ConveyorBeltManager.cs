@@ -1,44 +1,75 @@
 using UnityEngine;
 using System.Collections.Generic;
-using UnityEngine.Tilemaps;
 using System.Collections;
 using System.Linq;
 using UnityEngine.Events;
+using UnityEditor;
+using Unity.VisualScripting;
+
+
+[System.Serializable]
+public enum ConveyorPortType
+{
+    None,
+    Input,
+    Output
+}
+
+[System.Serializable]
+public class ConveyorPort
+{
+    public ConveyorPortType up;
+    public ConveyorPortType right;
+    public ConveyorPortType down;
+    public ConveyorPortType left;
+
+    public Dictionary<Vector2, ConveyorPortType> portTypes = new Dictionary<Vector2, ConveyorPortType>();
+
+    public bool HasEqualPorts(ConveyorPort port)
+    {
+        foreach(KeyValuePair<Vector2, ConveyorPortType> kvp in portTypes)
+        {
+            if(!port.portTypes.ContainsKey(kvp.Key) && portTypes[kvp.Key]==ConveyorPortType.None)
+                continue;
+            if (!port.portTypes.ContainsKey(kvp.Key) || port.portTypes[kvp.Key] != kvp.Value)
+                return false;
+        }
+        return true;
+    }
+    public void RebuildDictionary()
+    {
+        portTypes.Clear();
+
+        portTypes[Vector2.up] = up;
+        portTypes[Vector2.right] = right;
+        portTypes[Vector2.down] = down;
+        portTypes[Vector2.left] = left;
+    }
+}
+
+[System.Serializable]
+public class ConveyorBeltDirection
+{
+    public string displayName;
+    public Vector2 direction;
+    public List<ConveyorPort> ports;
+    public Texture2D sheet;
+    //[HideInInspector]
+    public List<Sprite> sprites;
+}
 
 [System.Serializable]
 public class ConveyorBeltGroup
 {
-    public int uniqueID;
+    [Header("Config")]
+    public int ID;
+    public List<ConveyorBeltDirection> directions;
+
+    [Header("Animation")]
     public float speed;
     public int animationFrame = 0;
-    public Dictionary<int, List<Sprite>> sprites = new Dictionary<int, List<Sprite>>();
+    [HideInInspector]
     public UnityEvent<int> updateFrame;
-
-    [Header("Base directions")]
-    public List<Sprite> left;
-    public List<Sprite> right;
-    public List<Sprite> up;
-    public List<Sprite> down;
-
-    [Header("Ends")]
-    public List<Sprite> leftL;
-    public List<Sprite> leftR;
-    public List<Sprite> rightL;
-    public List<Sprite> rightR;
-    public List<Sprite> upU;
-    public List<Sprite> upD;
-    public List<Sprite> downU;
-    public List<Sprite> downD;
-
-    [Header("Corners")]
-    public List<Sprite> downLeft;
-    public List<Sprite> downRight;
-    public List<Sprite> upLeft;
-    public List<Sprite> upRight;
-    public List<Sprite> leftUp;
-    public List<Sprite> leftDown;
-    public List<Sprite> rightUp;
-    public List<Sprite> rightDown;
 }
 
 public class ConveyorBeltManager : MonoBehaviour
@@ -51,7 +82,16 @@ public class ConveyorBeltManager : MonoBehaviour
     private void Awake()
     {
         Instance = this;
-        GenerateDictionary();
+        foreach(ConveyorBeltGroup cg in conveyorGroups)
+        {
+            foreach(ConveyorBeltDirection direction in cg.directions)
+            {
+                foreach (ConveyorPort port in direction.ports)
+                {
+                    port.RebuildDictionary();
+                }
+            }
+        }
     }
 
     private void Start()
@@ -62,9 +102,99 @@ public class ConveyorBeltManager : MonoBehaviour
         }
     }
 
+    public ConveyorBeltDirection GetDirection(int groupID, ConveyorPort port)
+    {
+        ConveyorBeltGroup group = conveyorGroups.Where(r => r.ID == groupID).ToList().First();
+        return group.directions.Where(r => r.ports.Any(l => l.HasEqualPorts(port)==true)).ToList().First();
+    }
+
+    [ContextMenu("debug")]
+    public void debug()
+    {
+        HashSet<Vector2> dirs = new HashSet<Vector2>();
+        dirs.Add(Vector2.up);
+        dirs.Add(Vector2.right);
+        dirs.Add(Vector2.down);
+        dirs.Add(Vector2.left);
+        foreach (var group in conveyorGroups)
+        {
+            Dictionary<ConveyorPort, ConveyorBeltDirection> ports = new Dictionary<ConveyorPort, ConveyorBeltDirection>();
+
+            foreach (ConveyorBeltDirection direction in group.directions)
+            {
+                foreach (ConveyorPort port in direction.ports)
+                {
+                    foreach(Vector2 dir in dirs)
+                    {
+                        try
+                        {
+                            Debug.Log(port.portTypes[dir]);
+                        }
+                        catch
+                        {
+                            Debug.Log(direction.displayName);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    [ContextMenu("Check For Duplicates")]
+    public void CheckForDuplicates()
+    {
+        foreach (var group in conveyorGroups)
+        {
+            Dictionary<ConveyorPort, ConveyorBeltDirection> ports = new Dictionary<ConveyorPort, ConveyorBeltDirection>();
+
+            foreach (ConveyorBeltDirection direction in group.directions)
+            {
+                foreach (ConveyorPort port in direction.ports)
+                {
+                    foreach (ConveyorPort port2 in ports.Keys) {
+                        if(port2.HasEqualPorts(port))
+                            Debug.LogWarning("Found duplicate:      " + direction.displayName + " [" + direction.ports.IndexOf(port) + "]    x    " + ports[port2].displayName + " [" + ports[port2].ports.IndexOf(port2) + "]");
+                    }
+                    try
+                    {
+                        ports.Add(port, direction);
+                    }
+                    catch { }
+                }
+            }
+        }
+        Debug.Log("Check done");
+    }
+
+    [ContextMenu("Slice Sprite Sheet")]
+    private void SliceSpriteSheet()
+    {
+        foreach (ConveyorBeltGroup group in conveyorGroups)
+        {
+            foreach (ConveyorBeltDirection direction in group.directions)
+            {
+                if (direction == null || direction.sheet == null)
+                    continue;
+
+                string path = AssetDatabase.GetAssetPath(direction.sheet);
+
+                Object[] assets = AssetDatabase.LoadAllAssetsAtPath(path);
+
+                direction.sprites ??= new List<Sprite>();
+                direction.sprites.Clear();
+
+                foreach (Object asset in assets)
+                    if (asset is Sprite sprite)
+                        direction.sprites.Add(sprite);
+
+                direction.sprites = direction.sprites.OrderBy(s => s.name).ToList();
+            }
+        }
+    }
+
     public ConveyorBeltGroup GetGroup(int ID)
     {
-        return conveyorGroups.Where(r => r.uniqueID == ID).ToList().First();
+        return conveyorGroups.Where(r => r.ID == ID).ToList().First();
     }
 
     private IEnumerator Animate(ConveyorBeltGroup cg)
@@ -77,62 +207,5 @@ public class ConveyorBeltManager : MonoBehaviour
 
         yield return new WaitForSeconds(1/cg.speed);
         StartCoroutine(Animate(cg));
-    }
-
-    private void GenerateDictionary()
-    {
-        foreach (ConveyorBeltGroup cg in conveyorGroups) {
-            Dictionary<int, List<Sprite>> d = cg.sprites;
-            //base direction
-            d.Clear();
-            d.Add(0002, cg.left);
-            d.Add(0102, cg.left);
-            d.Add(1102, cg.left);
-            d.Add(0112, cg.left);
-            d.Add(1112, cg.left);
-            d.Add(1012, cg.left);
-
-            d.Add(0200, cg.right);
-            d.Add(0201, cg.right);
-            d.Add(1201, cg.right);
-            d.Add(0211, cg.right);
-            d.Add(1211, cg.right);
-            d.Add(1210, cg.right);
-
-            d.Add(2000, cg.up);
-            d.Add(2010, cg.up);
-            d.Add(2110, cg.up);
-            d.Add(2011, cg.up);
-            d.Add(2111, cg.up);
-            d.Add(2101, cg.up);
-
-            d.Add(0020, cg.down);
-            d.Add(1020, cg.down);
-            d.Add(1120, cg.down);
-            d.Add(1021, cg.down);
-            d.Add(1121, cg.down);
-            d.Add(0121, cg.down);
-
-            //ends
-            /*
-            d.Add(0100, cg.leftL);
-            d.Add(0002, cg.leftR);
-            d.Add(0200, cg.rightL);
-            d.Add(0001, cg.rightR);
-            d.Add(0010, cg.upU);
-            d.Add(2000, cg.upD);
-            d.Add(0020, cg.downU);
-            d.Add(1000, cg.downD);
-            */
-            //corners
-            d.Add(1002, cg.downLeft);
-            d.Add(1200, cg.downRight);
-            d.Add(0012, cg.upLeft);
-            d.Add(0210, cg.upRight);
-            d.Add(2100, cg.leftUp);
-            d.Add(0120, cg.leftDown);
-            d.Add(2001, cg.rightUp);
-            d.Add(0021, cg.rightDown);
-        }   
     }
 }
